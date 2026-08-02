@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2052361362563891252",
+    "created_at": "2026-05-07T13:43:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T14:43:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052383749934104708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1993231832939479052",
+          "start": 0,
+          "username": "voidokindo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052383749934104708",
+    "in_reply_to_user_id": "1993231832939479052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052361362563891252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@voidokindo 最左边的不可以哦"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2052361352484986880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHtzxrWboAAcz2M.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2052361362563891252",
+        "created_at": "2026-05-07T13:43:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:43:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052383749934104708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1993231832939479052",
+              "start": 0,
+              "username": "voidokindo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052383749934104708",
+        "in_reply_to_user_id": "1993231832939479052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052361362563891252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@voidokindo 最左边的不可以哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052361352484986880"
+          ]
+        },
+        "author_id": "1993231832939479052",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052361362563891252",
+        "created_at": "2026-05-07T12:14:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T13:14:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052361362563891252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OYAuZfa1il",
+              "end": 33,
+              "expanded_url": "https://x.com/voidokindo/status/2052361362563891252/photo/1",
+              "media_key": "3_2052361352484986880",
+              "start": 10,
+              "url": "https://t.co/OYAuZfa1il"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052361362563891252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧最好的三样东西 https://t.co/OYAuZfa1il"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "ftx｜我非「我」@AnoChihayaTokyo\n🌟@ChenX100914 里推@6sasbx\n🍐 @Eternal1uv9 @SummerTwT9｜🙇🏻‍♀️ @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "AnoChihayaTokyo"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "ChenX100914"
+              },
+              {
+                "end": 49,
+                "start": 42,
+                "username": "6sasbx"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 76,
+                "start": 65,
+                "username": "SummerTwT9"
+              },
+              {
+                "end": 96,
+                "start": 83,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "否",
+        "pinned_tweet_id": "2042497302250864824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041967484094541824/nFkwwoYQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 178,
+          "like_count": 2508,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1218
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T08:15:42.000Z",
+        "description": "私 \n    は \n 今 \n 日 \n も \n 転 \n が \n り \n ま \nす",
+        "id": "1993231832939479052",
+        "location": "מִגְדַּל בָּבֶל",
+        "name": "Emanon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020695268401008641/pNHc6979_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 66,
+          "like_count": 605,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 62
+        },
+        "username": "voidokindo",
+        "verified": false
+      }
+    ]
+  }
+}

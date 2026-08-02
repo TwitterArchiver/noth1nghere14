@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2032065130197115050",
+    "created_at": "2026-03-12T12:04:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T13:04:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032065130197115050"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/looolzaozimin/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/looolzaozimin/status/2031679593657352395",
+          "start": 12,
+          "url": "https://t.co/3NV6sytMVF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032065130197115050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031679593657352395",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎麼愛 可我連恨都沒有 https://t.co/3NV6sytMVF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2032065130197115050",
+        "created_at": "2026-03-12T12:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T13:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032065130197115050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/looolzaozimin/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/looolzaozimin/status/2031679593657352395",
+              "start": 12,
+              "url": "https://t.co/3NV6sytMVF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032065130197115050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031679593657352395",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎麼愛 可我連恨都沒有 https://t.co/3NV6sytMVF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1960389326258495492",
+        "conversation_id": "2031679593657352395",
+        "created_at": "2026-03-11T10:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T11:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031679593657352395"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031679593657352395",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1802,
+          "like_count": 38,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "拥抱接吻拉手做爱全都没有意义  怎么才可以重新拥有爱人的能力"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "愚蠢至極",
+        "id": "1941411522691072006",
+        "name": "否決^",
+        "pinned_tweet_id": "2024968340415123695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024968101696339969/NVHIIoFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 144,
+          "like_count": 2096,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 882
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-26T17:10:37.000Z",
+        "description": "@songbansha6606",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "songbansha6606"
+              }
+            ]
+          }
+        },
+        "id": "1960389326258495492",
+        "location": "門288",
+        "name": "小藻",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006630961887535104/Xwoq_Ilo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24438,
+          "following_count": 45,
+          "like_count": 140,
+          "listed_count": 23,
+          "media_count": 74,
+          "tweet_count": 116
+        },
+        "username": "looolzaozimin",
+        "verified": false
+      }
+    ]
+  }
+}

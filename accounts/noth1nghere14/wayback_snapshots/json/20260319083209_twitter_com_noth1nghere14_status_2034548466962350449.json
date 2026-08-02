@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2034548466962350449",
+    "created_at": "2026-03-19T08:32:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T09:32:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034548466962350449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1773041626581221376",
+          "start": 3,
+          "username": "Nikikiki8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034548466962350449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034170394945720444",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nikikiki8964: “健全b”最恶心的一点是，批判嘲讽别人之前总默认对方和自己条件背景经历一样，从不思考这个人经历了什么才变成这样，只先入为主认为人家自甘堕落。至少可以先了解对方发生了什么，或干脆闭嘴\n我每次看到一些怪人都会先翻翻ta主页，看到对方经历时就共情理…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2034548466962350449",
+        "created_at": "2026-03-19T08:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T09:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034548466962350449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1773041626581221376",
+              "start": 3,
+              "username": "Nikikiki8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034548466962350449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034170394945720444",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nikikiki8964: “健全b”最恶心的一点是，批判嘲讽别人之前总默认对方和自己条件背景经历一样，从不思考这个人经历了什么才变成这样，只先入为主认为人家自甘堕落。至少可以先了解对方发生了什么，或干脆闭嘴\n我每次看到一些怪人都会先翻翻ta主页，看到对方经历时就共情理…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773041626581221376",
+        "conversation_id": "2034170394945720444",
+        "created_at": "2026-03-18T07:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T08:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034170394945720444"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034170394945720444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 11487,
+          "like_count": 463,
+          "quote_count": 8,
+          "reply_count": 16,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "“健全b”最恶心的一点是，批判嘲讽别人之前总默认对方和自己条件背景经历一样，从不思考这个人经历了什么才变成这样，只先入为主认为人家自甘堕落。至少可以先了解对方发生了什么，或干脆闭嘴\n我每次看到一些怪人都会先翻翻ta主页，看到对方经历时就共情理解了，如果我经历那些不一定能比他们表现更好"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "愚蠢至極\n\n♦️@w0sh1Asak1｜🍐 @Eternal1uv9｜🙇🏻‍♀️ @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 34,
+                "start": 22,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "否決^",
+        "pinned_tweet_id": "2024968340415123695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024968101696339969/NVHIIoFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 150,
+          "like_count": 2122,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 914
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-27T17:37:30.000Z",
+        "description": "个人想法储存站｜同人女｜虚拟性恋尊厌｜回关交友随缘｜有事提问箱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E8%A5%BF%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E8%A5%BF%E7%93%9C%E6%8A%95%E6%89%8B",
+                "start": 0,
+                "url": "https://t.co/ujX5HCo8rR"
+              }
+            ]
+          }
+        },
+        "id": "1773041626581221376",
+        "location": "匿名提问箱→",
+        "name": "Cackatoo",
+        "pinned_tweet_id": "2034228273673302354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018744150007730176/OEgu-nth_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1618,
+          "following_count": 90,
+          "like_count": 93126,
+          "listed_count": 8,
+          "media_count": 49,
+          "tweet_count": 194
+        },
+        "url": "https://t.co/ujX5HCo8rR",
+        "username": "Nikikiki8964",
+        "verified": false
+      }
+    ]
+  }
+}

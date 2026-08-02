@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2056718264466846204",
+    "created_at": "2026-05-20T16:00:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T17:00:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057129338202698126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2056665560784715776",
+          "start": 0,
+          "username": "newodway"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057129338202698126",
+    "in_reply_to_user_id": "2056665560784715776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056718264466846204",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@newodway 能私讯了解吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2056718255583309824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIruW0MasAAFmCy.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2056718264466846204",
+        "created_at": "2026-05-20T16:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T17:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057129338202698126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2056665560784715776",
+              "start": 0,
+              "username": "newodway"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057129338202698126",
+        "in_reply_to_user_id": "2056665560784715776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056718264466846204",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@newodway 能私讯了解吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056718255583309824"
+          ]
+        },
+        "author_id": "2056665560784715776",
+        "conversation_id": "2056718264466846204",
+        "created_at": "2026-05-19T12:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T13:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056718264466846204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HjtylYnKoZ",
+              "end": 103,
+              "expanded_url": "https://x.com/newodway/status/2056718264466846204/photo/1",
+              "media_key": "3_2056718255583309824",
+              "start": 80,
+              "url": "https://t.co/HjtylYnKoZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056718264466846204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因為我是剛剛開始做賬號\n也許很多人不信任\n右美沙芬是線下可以拿到的\n在x上再給你們\n先寄給你們試了之後再付款\nplz大家不要吃那些不好的藥了來吃純右美沙芬吧✨ https://t.co/HjtylYnKoZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "ftx｜我非「我」\n🌟@ChenX100914 里推@6sasbx\n🍐 @Eternal1uv9 @SummerTwT9｜🙇🏻‍♀️ @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "ChenX100914"
+              },
+              {
+                "end": 33,
+                "start": 26,
+                "username": "6sasbx"
+              },
+              {
+                "end": 48,
+                "start": 36,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "SummerTwT9"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "否",
+        "pinned_tweet_id": "2042497302250864824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054387945420005376/Sz8V03LN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 174,
+          "like_count": 2505,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1226
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-19T09:19:07.000Z",
+        "description": "需要预订丨帮助oder戒斷丨💊线下正规渠道純右美沙芬出售",
+        "id": "2056665560784715776",
+        "name": "天使拜托别走💊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056668028948140032/O2j24Y8Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 11,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 15
+        },
+        "username": "newodway",
+        "verified": false
+      }
+    ]
+  }
+}

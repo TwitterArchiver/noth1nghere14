@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2046527667848257868",
+    "created_at": "2026-04-21T10:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T11:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046530596802113680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1850072961468043264",
+          "start": 0,
+          "username": "Overdose_ASD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046530596802113680",
+    "in_reply_to_user_id": "1850072961468043264",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046530512370717003",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Overdose_ASD 吃吃滨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2046527667848257868",
+        "created_at": "2026-04-21T10:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046530596802113680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1850072961468043264",
+              "start": 0,
+              "username": "Overdose_ASD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046530596802113680",
+        "in_reply_to_user_id": "1850072961468043264",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046530512370717003",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Overdose_ASD 吃吃滨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850072961468043264",
+        "conversation_id": "2046527667848257868",
+        "created_at": "2026-04-21T10:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046530512370717003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1941411522691072006",
+              "start": 0,
+              "username": "noth1nghere14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046530512370717003",
+        "in_reply_to_user_id": "1941411522691072006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046527667848257868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noth1nghere14 牛逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "ftx｜我非「我」@AnoChihayaTokyo\n🌟@ChenX100914 里推@6sasbx\n♦️@w0sh1Asak1｜🍐 @Eternal1uv9 @SummerTwT9｜🙇🏻‍♀️ @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "AnoChihayaTokyo"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "ChenX100914"
+              },
+              {
+                "end": 49,
+                "start": 42,
+                "username": "6sasbx"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 90,
+                "start": 79,
+                "username": "SummerTwT9"
+              },
+              {
+                "end": 110,
+                "start": 97,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "否",
+        "pinned_tweet_id": "2042497302250864824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041967484094541824/nFkwwoYQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 178,
+          "like_count": 2481,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1188
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-26T07:12:32.000Z",
+        "description": "香香梨 @Kikunashi30712",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "Kikunashi30712"
+              }
+            ]
+          }
+        },
+        "id": "1850072961468043264",
+        "location": "第二高原",
+        "name": "涙の販売機",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044209302907539456/M4vRarQ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 205,
+          "like_count": 1005,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 17
+        },
+        "username": "Overdose_ASD",
+        "verified": false
+      }
+    ]
+  }
+}

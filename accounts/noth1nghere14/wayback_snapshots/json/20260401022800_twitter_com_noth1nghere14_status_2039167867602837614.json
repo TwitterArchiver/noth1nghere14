@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2039137562586173727",
+    "created_at": "2026-04-01T02:28:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T03:28:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039167867602837614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1993231832939479052",
+          "start": 0,
+          "username": "voidokindo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039167867602837614",
+    "in_reply_to_user_id": "1993231832939479052",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039137562586173727",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@voidokindo 万一有万一"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2039137562586173727",
+        "created_at": "2026-04-01T02:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T03:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039167867602837614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1993231832939479052",
+              "start": 0,
+              "username": "voidokindo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039167867602837614",
+        "in_reply_to_user_id": "1993231832939479052",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039137562586173727",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@voidokindo 万一有万一"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993231832939479052",
+        "conversation_id": "2039137562586173727",
+        "created_at": "2026-04-01T00:27:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T01:27:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039137562586173727"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039137562586173727",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "萬一呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "愚蠢至極｜ftx｜我非「我」\n\n♦️@w0sh1Asak1｜🍐 @Eternal1uv9｜🙇🏻‍♀️ @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 44,
+                "start": 32,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 64,
+                "start": 51,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "你常说沉默是类似于回答的浪漫行为",
+        "pinned_tweet_id": "2024968340415123695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036549161773068288/3l_kT2TQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 163,
+          "like_count": 2271,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1045
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T08:15:42.000Z",
+        "description": "Loveless",
+        "id": "1993231832939479052",
+        "location": "מִגְדַּל בָּבֶל",
+        "name": "Emanon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020695268401008641/pNHc6979_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 57,
+          "like_count": 524,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 86
+        },
+        "username": "voidokindo",
+        "verified": false
+      }
+    ]
+  }
+}

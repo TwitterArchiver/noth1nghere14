@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047686588344446976",
+        "3_2047686587820240896"
+      ],
+      "media_source_tweet_id": [
+        "2047686590777192951",
+        "2047686590777192951"
+      ]
+    },
+    "author_id": "1941411522691072006",
+    "conversation_id": "2047748828498207230",
+    "created_at": "2026-04-24T18:45:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T19:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047748828498207230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1758532281873125377",
+          "start": 3,
+          "username": "miyoko39196"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fjycDqJoJ3",
+          "end": 87,
+          "expanded_url": "https://x.com/miyoko39196/status/2047686590777192951/photo/1",
+          "media_key": "3_2047686588344446976",
+          "start": 64,
+          "url": "https://t.co/fjycDqJoJ3"
+        },
+        {
+          "display_url": "pic.x.com/fjycDqJoJ3",
+          "end": 87,
+          "expanded_url": "https://x.com/miyoko39196/status/2047686590777192951/photo/1",
+          "media_key": "3_2047686587820240896",
+          "start": 64,
+          "url": "https://t.co/fjycDqJoJ3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047748828498207230",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047686590777192951",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miyoko39196: 此条推文仅代表我和沐雨的私人恩怨。\n与药物百科其他成员，其他oder无任何关系。\n有仇报仇。 https://t.co/fjycDqJoJ3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047686588344446976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrYGl2aMAAahy6.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2047686587820240896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGrYGj5bcAAFWAI.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047686588344446976",
+            "3_2047686587820240896"
+          ],
+          "media_source_tweet_id": [
+            "2047686590777192951",
+            "2047686590777192951"
+          ]
+        },
+        "author_id": "1941411522691072006",
+        "conversation_id": "2047748828498207230",
+        "created_at": "2026-04-24T18:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T19:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047748828498207230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1758532281873125377",
+              "start": 3,
+              "username": "miyoko39196"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fjycDqJoJ3",
+              "end": 87,
+              "expanded_url": "https://x.com/miyoko39196/status/2047686590777192951/photo/1",
+              "media_key": "3_2047686588344446976",
+              "start": 64,
+              "url": "https://t.co/fjycDqJoJ3"
+            },
+            {
+              "display_url": "pic.x.com/fjycDqJoJ3",
+              "end": 87,
+              "expanded_url": "https://x.com/miyoko39196/status/2047686590777192951/photo/1",
+              "media_key": "3_2047686587820240896",
+              "start": 64,
+              "url": "https://t.co/fjycDqJoJ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047748828498207230",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047686590777192951",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miyoko39196: 此条推文仅代表我和沐雨的私人恩怨。\n与药物百科其他成员，其他oder无任何关系。\n有仇报仇。 https://t.co/fjycDqJoJ3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047686588344446976",
+            "3_2047686587820240896"
+          ]
+        },
+        "author_id": "1758532281873125377",
+        "conversation_id": "2047686590777192951",
+        "created_at": "2026-04-24T14:38:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T15:38:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047686590777192951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fjycDqJoJ3",
+              "end": 70,
+              "expanded_url": "https://x.com/miyoko39196/status/2047686590777192951/photo/1",
+              "media_key": "3_2047686588344446976",
+              "start": 47,
+              "url": "https://t.co/fjycDqJoJ3"
+            },
+            {
+              "display_url": "pic.x.com/fjycDqJoJ3",
+              "end": 70,
+              "expanded_url": "https://x.com/miyoko39196/status/2047686590777192951/photo/1",
+              "media_key": "3_2047686587820240896",
+              "start": 47,
+              "url": "https://t.co/fjycDqJoJ3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047686590777192951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 777,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "此条推文仅代表我和沐雨的私人恩怨。\n与药物百科其他成员，其他oder无任何关系。\n有仇报仇。 https://t.co/fjycDqJoJ3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "ftx｜我非「我」@AnoChihayaTokyo\n🌟@ChenX100914 里推@6sasbx\n♦️@w0sh1Asak1｜🍐 @Eternal1uv9 @SummerTwT9｜🙇🏻‍♀️ @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "AnoChihayaTokyo"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "ChenX100914"
+              },
+              {
+                "end": 49,
+                "start": 42,
+                "username": "6sasbx"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 90,
+                "start": 79,
+                "username": "SummerTwT9"
+              },
+              {
+                "end": 110,
+                "start": 97,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "否",
+        "pinned_tweet_id": "2042497302250864824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041967484094541824/nFkwwoYQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 178,
+          "like_count": 2491,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 1201
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T16:42:37.000Z",
+        "description": "佛教信徒／梦想成为范马刃牙／照见五蕴皆空度一切苦厄／因为她是我的骄傲",
+        "id": "1758532281873125377",
+        "location": "Macau",
+        "name": "miyoko",
+        "pinned_tweet_id": "1999409951790497934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816362060768575488/vBUYB_KY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 122,
+          "like_count": 380,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 601
+        },
+        "username": "miyoko39196",
+        "verified": false
+      }
+    ]
+  }
+}

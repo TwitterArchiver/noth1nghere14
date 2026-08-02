@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2032504435939881475",
+    "created_at": "2026-03-13T17:09:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T18:09:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032504435939881475"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/71411z/status/…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/71411z/status/2032203259465908669",
+          "start": 3,
+          "url": "https://t.co/haFp8Rox48"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032504435939881475",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032203259465908669",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "钝痛 https://t.co/haFp8Rox48"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2032504435939881475",
+        "created_at": "2026-03-13T17:09:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T18:09:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032504435939881475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/71411z/status/…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/71411z/status/2032203259465908669",
+              "start": 3,
+              "url": "https://t.co/haFp8Rox48"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032504435939881475",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032203259465908669",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "钝痛 https://t.co/haFp8Rox48"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1623016625204252673",
+        "conversation_id": "2032203259465908669",
+        "created_at": "2026-03-12T21:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T22:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032203259465908669"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032203259465908669",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 144,
+          "impression_count": 207457,
+          "like_count": 2739,
+          "quote_count": 61,
+          "reply_count": 212,
+          "retweet_count": 279
+        },
+        "reply_settings": "everyone",
+        "text": "视奸最爽的就是发现那个人有了更亲密的人之后 心脏那种闷闷的钝痛感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "愚蠢至極\n\n♦️@w0sh1Asak1｜🍐 @Eternal1uv9｜🙇🏻‍♀️ @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 34,
+                "start": 22,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "否決^",
+        "pinned_tweet_id": "2024968340415123695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024968101696339969/NVHIIoFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 144,
+          "like_count": 2100,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 889
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-07T17:51:43.000Z",
+        "description": "我会幸福的 ➡️互关通过@evszv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 12,
+                "username": "evszv"
+              }
+            ]
+          }
+        },
+        "id": "1623016625204252673",
+        "name": "收敛水",
+        "pinned_tweet_id": "1987814546795569393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843336344086736896/ZgfJD3XW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4845,
+          "following_count": 998,
+          "like_count": 3916,
+          "listed_count": 13,
+          "media_count": 239,
+          "tweet_count": 984
+        },
+        "username": "71411z",
+        "verified": false
+      }
+    ]
+  }
+}

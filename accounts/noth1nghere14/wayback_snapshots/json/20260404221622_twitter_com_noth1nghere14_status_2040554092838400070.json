@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2040553655729082536",
+    "created_at": "2026-04-04T22:16:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T23:16:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040554092838400070"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2039399272819662848",
+          "start": 0,
+          "username": "ChenX100914"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040554092838400070",
+    "in_reply_to_user_id": "2039399272819662848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040553655729082536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChenX100914 依旧哈气"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2040553655729082536",
+        "created_at": "2026-04-04T22:16:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T23:16:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040554092838400070"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2039399272819662848",
+              "start": 0,
+              "username": "ChenX100914"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040554092838400070",
+        "in_reply_to_user_id": "2039399272819662848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040553655729082536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChenX100914 依旧哈气"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039399272819662848",
+        "conversation_id": "2040553655729082536",
+        "created_at": "2026-04-04T22:14:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T23:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040553655729082536"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040553655729082536",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天应激了一整天😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "愚蠢至極｜ftx｜我非「我」\n🌟@ChenX100914\n♦️@w0sh1Asak1｜🍐 @Eternal1uv9｜🙇🏻‍♀️ @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "ChenX100914"
+              },
+              {
+                "end": 42,
+                "start": 31,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 57,
+                "start": 45,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "你常说沉默是类似于回答的浪漫行为",
+        "pinned_tweet_id": "2024968340415123695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036549161773068288/3l_kT2TQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 161,
+          "like_count": 2282,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1051
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T17:48:23.000Z",
+        "description": "极度乐观的悲观主义者☁️\n @noth1nghere14 ｜@Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "noth1nghere14"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "2039399272819662848",
+        "name": "ChenX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039403619964080128/zlm9X1f9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 6,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "username": "ChenX100914",
+        "verified": false
+      }
+    ]
+  }
+}

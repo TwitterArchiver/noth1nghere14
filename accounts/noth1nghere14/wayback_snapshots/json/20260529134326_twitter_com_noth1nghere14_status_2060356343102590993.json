@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2058121473953558935",
+    "created_at": "2026-05-29T13:43:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T14:43:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060356343102590993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2028838129013256192",
+          "start": 0,
+          "username": "Hanuzb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060356343102590993",
+    "in_reply_to_user_id": "2028838129013256192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060053437979750825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hanuzb 25不包u"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2058121473953558935",
+        "created_at": "2026-05-29T13:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060356343102590993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2028838129013256192",
+              "start": 0,
+              "username": "Hanuzb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060356343102590993",
+        "in_reply_to_user_id": "2028838129013256192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060053437979750825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hanuzb 25不包u"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028838129013256192",
+        "conversation_id": "2058121473953558935",
+        "created_at": "2026-05-28T17:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T18:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060053437979750825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1941411522691072006",
+              "start": 0,
+              "username": "noth1nghere14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060053437979750825",
+        "in_reply_to_user_id": "1941411522691072006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058121473953558935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noth1nghere14 多少钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "ftx｜我非「我」\n🌟@ChenX100914 里推@6sasbx\n🍐 @Eternal1uv9 @SummerTwT9｜🙇🏻‍♀️ @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "ChenX100914"
+              },
+              {
+                "end": 33,
+                "start": 26,
+                "username": "6sasbx"
+              },
+              {
+                "end": 48,
+                "start": 36,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "SummerTwT9"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "否",
+        "pinned_tweet_id": "2042497302250864824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054387945420005376/Sz8V03LN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 174,
+          "like_count": 2507,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1230
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T14:21:53.000Z",
+        "description": "",
+        "id": "2028838129013256192",
+        "name": "Han",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033919284062355456/1VceUshc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "Hanuzb",
+        "verified": false
+      }
+    ]
+  }
+}

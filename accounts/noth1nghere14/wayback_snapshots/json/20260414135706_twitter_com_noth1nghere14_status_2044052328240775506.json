@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2044044329778589954",
+    "created_at": "2026-04-14T13:57:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T14:57:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044052328240775506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1987670672093687808",
+          "start": 0,
+          "username": "dororomi_tw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044052328240775506",
+    "in_reply_to_user_id": "1987670672093687808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044052220891803775",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dororomi_tw 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2044044329778589954",
+        "created_at": "2026-04-14T13:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044052328240775506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1987670672093687808",
+              "start": 0,
+              "username": "dororomi_tw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044052328240775506",
+        "in_reply_to_user_id": "1987670672093687808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044052220891803775",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dororomi_tw 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987670672093687808",
+        "conversation_id": "2044044329778589954",
+        "created_at": "2026-04-14T13:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044052220891803775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1941411522691072006",
+              "start": 0,
+              "username": "noth1nghere14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044052220891803775",
+        "in_reply_to_user_id": "1941411522691072006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044044329778589954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noth1nghere14 兩個都有也不衝突啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "ftx｜我非「我」\n🌟@ChenX100914 里推@6sasbx\n♦️@w0sh1Asak1｜🍐 @Eternal1uv9 @SummerTwT9｜🙇🏻‍♀️ @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "ChenX100914"
+              },
+              {
+                "end": 33,
+                "start": 26,
+                "username": "6sasbx"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "SummerTwT9"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "否",
+        "pinned_tweet_id": "2042497302250864824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041967484094541824/nFkwwoYQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 170,
+          "like_count": 2401,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1151
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-09T23:57:31.000Z",
+        "description": "不語不笑常哭",
+        "id": "1987670672093687808",
+        "location": "台灣",
+        "name": "陸長生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035708339427119104/jQpAneRT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 11,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 18
+        },
+        "username": "dororomi_tw",
+        "verified": false
+      }
+    ]
+  }
+}

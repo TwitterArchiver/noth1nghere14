@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032131289445543936",
+        "3_2032131289445515270",
+        "3_2032131289483264007"
+      ]
+    },
+    "author_id": "1941411522691072006",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2032131298572271817",
+    "created_at": "2026-03-12T16:27:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T17:27:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032131298572271817"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bg5AEbN91x",
+          "end": 31,
+          "expanded_url": "https://x.com/noth1nghere14/status/2032131298572271817/photo/1",
+          "media_key": "3_2032131289445543936",
+          "start": 8,
+          "url": "https://t.co/Bg5AEbN91x"
+        },
+        {
+          "display_url": "pic.x.com/Bg5AEbN91x",
+          "end": 31,
+          "expanded_url": "https://x.com/noth1nghere14/status/2032131298572271817/photo/1",
+          "media_key": "3_2032131289445515270",
+          "start": 8,
+          "url": "https://t.co/Bg5AEbN91x"
+        },
+        {
+          "display_url": "pic.x.com/Bg5AEbN91x",
+          "end": 31,
+          "expanded_url": "https://x.com/noth1nghere14/status/2032131298572271817/photo/1",
+          "media_key": "3_2032131289483264007",
+          "start": 8,
+          "url": "https://t.co/Bg5AEbN91x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032131298572271817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "給我痛苦的源泉 https://t.co/Bg5AEbN91x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032131289445543936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDOUpBxbsAA5PaA.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032131289445515270",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDOUpBxbQAYQbx7.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2032131289483264007",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDOUpB6bQAc9JLH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032131289445543936",
+            "3_2032131289445515270",
+            "3_2032131289483264007"
+          ]
+        },
+        "author_id": "1941411522691072006",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2032131298572271817",
+        "created_at": "2026-03-12T16:27:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T17:27:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032131298572271817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bg5AEbN91x",
+              "end": 31,
+              "expanded_url": "https://x.com/noth1nghere14/status/2032131298572271817/photo/1",
+              "media_key": "3_2032131289445543936",
+              "start": 8,
+              "url": "https://t.co/Bg5AEbN91x"
+            },
+            {
+              "display_url": "pic.x.com/Bg5AEbN91x",
+              "end": 31,
+              "expanded_url": "https://x.com/noth1nghere14/status/2032131298572271817/photo/1",
+              "media_key": "3_2032131289445515270",
+              "start": 8,
+              "url": "https://t.co/Bg5AEbN91x"
+            },
+            {
+              "display_url": "pic.x.com/Bg5AEbN91x",
+              "end": 31,
+              "expanded_url": "https://x.com/noth1nghere14/status/2032131298572271817/photo/1",
+              "media_key": "3_2032131289483264007",
+              "start": 8,
+              "url": "https://t.co/Bg5AEbN91x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032131298572271817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "給我痛苦的源泉 https://t.co/Bg5AEbN91x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "愚蠢至極",
+        "id": "1941411522691072006",
+        "name": "否決^",
+        "pinned_tweet_id": "2024968340415123695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024968101696339969/NVHIIoFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 143,
+          "like_count": 2096,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 884
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      }
+    ]
+  }
+}

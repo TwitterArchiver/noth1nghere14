@@ -1,0 +1,40 @@
+{
+  "name": "否",
+  "username": "@noth1nghere14",
+  "bio": "ftx｜我非「我」 🌟@ChenX100914 里推@6sasbx 🍐 @Eternal1uv9 @SummerTwT9｜🙇🏻‍♀️ @Akinoyo_desu",
+  "location": "",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 23,
+        "start": 11,
+        "username": "ChenX100914"
+      },
+      {
+        "end": 33,
+        "start": 26,
+        "username": "6sasbx"
+      },
+      {
+        "end": 48,
+        "start": 36,
+        "username": "Eternal1uv9"
+      },
+      {
+        "end": 60,
+        "start": 49,
+        "username": "SummerTwT9"
+      },
+      {
+        "end": 80,
+        "start": 67,
+        "username": "Akinoyo_desu"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2054387945420005376/Sz8V03LN_normal.jpg"
+}

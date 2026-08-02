@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2030230901708460283",
+    "created_at": "2026-03-07T10:35:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T11:35:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030230901708460283"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whydoyouwantls…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/whydoyouwantlsd/status/2030225591560294548",
+          "start": 16,
+          "url": "https://t.co/sB7uatXRsa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030230901708460283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030225591560294548",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那些不再疼痛的日子早就被遺忘了 https://t.co/sB7uatXRsa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2030230901708460283",
+        "created_at": "2026-03-07T10:35:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T11:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030230901708460283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whydoyouwantls…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/whydoyouwantlsd/status/2030225591560294548",
+              "start": 16,
+              "url": "https://t.co/sB7uatXRsa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030230901708460283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030225591560294548",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那些不再疼痛的日子早就被遺忘了 https://t.co/sB7uatXRsa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728798875593654272",
+        "conversation_id": "2030225591560294548",
+        "created_at": "2026-03-07T10:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T11:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030225591560294548"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030225591560294548",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我申请创立有疼痛纠缠慢性疼痛受害者联盟，我痛的根本没有精力做事社交甚至是维持日常生活，好消息是我下周就要去复诊了希望此问题能得到改善，阿弥陀佛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "愚蠢至極",
+        "id": "1941411522691072006",
+        "name": "否決^",
+        "pinned_tweet_id": "2024968340415123695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024968101696339969/NVHIIoFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 145,
+          "like_count": 2053,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 854
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-26T15:32:33.000Z",
+        "description": "天空形成的最初形状是纽扣。enby，■TX，退役oder，碎碎念博主，诗歌，文学，精神医学，ASD。永冇正反之分，水中月中月無月。",
+        "id": "1728798875593654272",
+        "name": "眼球已死",
+        "pinned_tweet_id": "2006847733030858899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014427806932074496/1KDfhoun_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 256,
+          "like_count": 1773,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 814
+        },
+        "username": "whydoyouwantlsd",
+        "verified": false
+      }
+    ]
+  }
+}

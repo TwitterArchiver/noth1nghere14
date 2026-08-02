@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2026751055430906045",
+    "created_at": "2026-02-25T20:08:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T21:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026751055430906045"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/iining8964_qiq…",
+          "end": 93,
+          "expanded_url": "https://twitter.com/iining8964_qiqi/status/2026664322857095626",
+          "start": 70,
+          "url": "https://t.co/EIUHeXloXF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026751055430906045",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026664322857095626",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我军训的时候，有人泄露我是od大王，都起哄要我表演od，我上去直接1分钟o了5000种药，全部都是策划药，教官都傻了，直接给我磕了三个响头 https://t.co/EIUHeXloXF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2026751055430906045",
+        "created_at": "2026-02-25T20:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T21:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026751055430906045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iining8964_qiq…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/iining8964_qiqi/status/2026664322857095626",
+              "start": 70,
+              "url": "https://t.co/EIUHeXloXF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026751055430906045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026664322857095626",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我军训的时候，有人泄露我是od大王，都起哄要我表演od，我上去直接1分钟o了5000种药，全部都是策划药，教官都傻了，直接给我磕了三个响头 https://t.co/EIUHeXloXF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1566105372783366144",
+        "conversation_id": "2026664322857095626",
+        "created_at": "2026-02-25T14:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T15:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026664322857095626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Akinoyo_desu/s…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/Akinoyo_desu/status/2026011894499381531",
+              "start": 70,
+              "url": "https://t.co/W37cj9rILP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026664322857095626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026011894499381531",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我军训的时候，有人泄露我是od大王，都起哄要我表演od，我上去直接1分钟o了5000种药，全部都是策划药，教官都傻了，直接给我磕了三个响头 https://t.co/W37cj9rILP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "愚蠢至極",
+        "id": "1941411522691072006",
+        "name": "否決^",
+        "pinned_tweet_id": "2024968340415123695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024968101696339969/NVHIIoFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 144,
+          "like_count": 1970,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 812
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T16:46:46.000Z",
+        "description": "好想死",
+        "id": "1566105372783366144",
+        "name": "Idiot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994017730522120192/d3eKZ_R5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 130,
+          "like_count": 852,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 558
+        },
+        "username": "iining8964_qiqi",
+        "verified": false
+      }
+    ]
+  }
+}

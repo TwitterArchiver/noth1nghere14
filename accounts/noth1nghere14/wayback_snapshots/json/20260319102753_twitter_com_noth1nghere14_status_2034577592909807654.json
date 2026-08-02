@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2034577592909807654",
+    "created_at": "2026-03-19T10:27:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T11:27:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034577592909807654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1587669006189666304",
+          "start": 3,
+          "username": "ur_my_heiroin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034577592909807654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034478596673110103",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ur_my_heiroin: 中推简直就是无聊至极 每天都是一样的内容 门姐爱上门哥被痛批小孩不自爱 约炮爱上炮友 跨性别自杀 好看是不是被爱的前提 前夫哥前妻姐 哪个推主草粉了聊骚了塌房了 习近平干这个干那个（这个确实挺好笑的） 完全就是简中互联网的缩影 所以你看跨过…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2034577592909807654",
+        "created_at": "2026-03-19T10:27:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T11:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034577592909807654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1587669006189666304",
+              "start": 3,
+              "username": "ur_my_heiroin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034577592909807654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034478596673110103",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ur_my_heiroin: 中推简直就是无聊至极 每天都是一样的内容 门姐爱上门哥被痛批小孩不自爱 约炮爱上炮友 跨性别自杀 好看是不是被爱的前提 前夫哥前妻姐 哪个推主草粉了聊骚了塌房了 习近平干这个干那个（这个确实挺好笑的） 完全就是简中互联网的缩影 所以你看跨过…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587669006189666304",
+        "conversation_id": "2034478596673110103",
+        "created_at": "2026-03-19T03:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T04:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034478596673110103"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034478596673110103",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 17935,
+          "like_count": 350,
+          "quote_count": 8,
+          "reply_count": 21,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "中推简直就是无聊至极 每天都是一样的内容 门姐爱上门哥被痛批小孩不自爱 约炮爱上炮友 跨性别自杀 好看是不是被爱的前提 前夫哥前妻姐 哪个推主草粉了聊骚了塌房了 习近平干这个干那个（这个确实挺好笑的） 完全就是简中互联网的缩影 所以你看跨过了gfw你们其实也是做的一样的事情 一群蠢人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "愚蠢至極\n\n♦️@w0sh1Asak1｜🍐 @Eternal1uv9｜🙇🏻‍♀️ @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 34,
+                "start": 22,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "否決^",
+        "pinned_tweet_id": "2024968340415123695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024968101696339969/NVHIIoFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 150,
+          "like_count": 2136,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 924
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T04:52:44.000Z",
+        "description": "god damn us all",
+        "id": "1587669006189666304",
+        "location": "Toronto, Ontario",
+        "name": "heiro",
+        "pinned_tweet_id": "2028512558760558732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033321605435109376/8aJDn30I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 1197,
+          "like_count": 17815,
+          "listed_count": 4,
+          "media_count": 153,
+          "tweet_count": 2768
+        },
+        "username": "ur_my_heiroin",
+        "verified": false
+      }
+    ]
+  }
+}

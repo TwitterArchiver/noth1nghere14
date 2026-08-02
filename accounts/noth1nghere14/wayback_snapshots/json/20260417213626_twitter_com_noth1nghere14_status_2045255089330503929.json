@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2045251512323186958",
+    "created_at": "2026-04-17T21:36:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T22:36:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045255089330503929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2010801791282421760",
+          "start": 0,
+          "username": "Aki_MountainE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045255089330503929",
+    "in_reply_to_user_id": "2010801791282421760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045251512323186958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aki_MountainE 呼吸困难中…"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2045251512323186958].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2045251512323186958",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2045251512323186958"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2045251512323186958",
+        "created_at": "2026-04-17T21:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T22:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045255089330503929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2010801791282421760",
+              "start": 0,
+              "username": "Aki_MountainE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045255089330503929",
+        "in_reply_to_user_id": "2010801791282421760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045251512323186958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aki_MountainE 呼吸困难中…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "ftx｜我非「我」@AnoChihayaTokyo\n🌟@ChenX100914 里推@6sasbx\n♦️@w0sh1Asak1｜🍐 @Eternal1uv9 @SummerTwT9｜🙇🏻‍♀️ @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "AnoChihayaTokyo"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "ChenX100914"
+              },
+              {
+                "end": 49,
+                "start": 42,
+                "username": "6sasbx"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 90,
+                "start": 79,
+                "username": "SummerTwT9"
+              },
+              {
+                "end": 110,
+                "start": 97,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "否",
+        "pinned_tweet_id": "2042497302250864824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041967484094541824/nFkwwoYQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 176,
+          "like_count": 2428,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1172
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-12T19:51:30.000Z",
+        "description": "「過載是保護，失真是真相」",
+        "id": "2010801791282421760",
+        "location": "船底座",
+        "name": "Aki’s HZ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043653573779808256/Q6QGONji_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 16,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 10
+        },
+        "username": "Aki_MountainE",
+        "verified": false
+      }
+    ]
+  }
+}

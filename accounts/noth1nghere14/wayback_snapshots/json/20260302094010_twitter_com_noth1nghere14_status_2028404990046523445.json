@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2028356140661395661",
+    "created_at": "2026-03-02T09:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T10:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028404990046523445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1934662030663012359",
+          "start": 0,
+          "username": "didisupyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028404990046523445",
+    "in_reply_to_user_id": "1934662030663012359",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028356140661395661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@didisupyou 好冷ww"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2028356140661395661",
+        "created_at": "2026-03-02T09:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T10:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028404990046523445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934662030663012359",
+              "start": 0,
+              "username": "didisupyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028404990046523445",
+        "in_reply_to_user_id": "1934662030663012359",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028356140661395661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@didisupyou 好冷ww"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934662030663012359",
+        "conversation_id": "2028356140661395661",
+        "created_at": "2026-03-02T06:26:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T07:26:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028356140661395661"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028356140661395661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一對情侶在河邊，男方表白，女方拒絕，男方疑惑，女方：有河，不可。\n\n我好喜歡這種爛笑話w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "愚蠢至極",
+        "id": "1941411522691072006",
+        "name": "否決^",
+        "pinned_tweet_id": "2024968340415123695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024968101696339969/NVHIIoFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 143,
+          "like_count": 2000,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 825
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T17:19:33.000Z",
+        "description": "君，不語，不笑，不忿",
+        "id": "1934662030663012359",
+        "location": "台灣",
+        "name": "君常笑",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026358918562430976/IxF4vt0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 100,
+          "like_count": 2395,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 937
+        },
+        "username": "didisupyou",
+        "verified": false
+      }
+    ]
+  }
+}

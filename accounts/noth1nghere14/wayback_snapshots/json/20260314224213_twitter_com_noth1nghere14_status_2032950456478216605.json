@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2032520238299001333",
+    "created_at": "2026-03-14T22:42:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T23:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032950456478216605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2000386018953101312",
+          "start": 0,
+          "username": "ecstasy_myslee"
+        },
+        {
+          "end": 28,
+          "id": "1701555310006308864",
+          "start": 16,
+          "username": "Eternal1uv9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032950456478216605",
+    "in_reply_to_user_id": "2000386018953101312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032520238299001333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ecstasy_myslee @Eternal1uv9 你们要幸福🫳🫳"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2032520224214601728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDT2YAsb0AAJ-ri.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2032520226055856128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDT2YHjbIAAXAWQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2032520238299001333",
+        "created_at": "2026-03-14T22:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T23:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032950456478216605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2000386018953101312",
+              "start": 0,
+              "username": "ecstasy_myslee"
+            },
+            {
+              "end": 28,
+              "id": "1701555310006308864",
+              "start": 16,
+              "username": "Eternal1uv9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032950456478216605",
+        "in_reply_to_user_id": "2000386018953101312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032520238299001333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ecstasy_myslee @Eternal1uv9 你们要幸福🫳🫳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032520224214601728",
+            "3_2032520226055856128"
+          ]
+        },
+        "author_id": "2000386018953101312",
+        "conversation_id": "2032520238299001333",
+        "created_at": "2026-03-13T18:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T19:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032520238299001333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1701555310006308864",
+              "start": 2,
+              "username": "Eternal1uv9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cccC8vZXtr",
+              "end": 77,
+              "expanded_url": "https://x.com/ecstasy_myslee/status/2032520238299001333/photo/1",
+              "media_key": "3_2032520224214601728",
+              "start": 54,
+              "url": "https://t.co/cccC8vZXtr"
+            },
+            {
+              "display_url": "pic.x.com/cccC8vZXtr",
+              "end": 77,
+              "expanded_url": "https://x.com/ecstasy_myslee/status/2032520238299001333/photo/1",
+              "media_key": "3_2032520226055856128",
+              "start": 54,
+              "url": "https://t.co/cccC8vZXtr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032520238299001333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 247,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谢谢@Eternal1uv9 送了从来没收到过的超级贵重的礼物！能一起逛街真的非常开心 特别特别喜欢你🥺🫶 https://t.co/cccC8vZXtr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "愚蠢至極\n\n♦️@w0sh1Asak1｜🍐 @Eternal1uv9｜🙇🏻‍♀️ @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 34,
+                "start": 22,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "否決^",
+        "pinned_tweet_id": "2024968340415123695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024968101696339969/NVHIIoFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 145,
+          "like_count": 2114,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 895
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-15T02:03:07.000Z",
+        "description": "🟨⬜️🟪⬛️  喜欢的人🩵@Eternal1uv9",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "Eternal1uv9"
+              }
+            ]
+          }
+        },
+        "id": "2000386018953101312",
+        "name": "ᎷӀᎡᎪ #蒭藁增二",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014376425793421314/Sg5GgOG9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 157,
+          "like_count": 4458,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 329
+        },
+        "username": "ecstasy_myslee",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T11:16:56.000Z",
+        "description": "哥哥🤍@ecstasy_myslee//渡川 🛸@noth1nghere14//K🥛@Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "ecstasy_myslee"
+              },
+              {
+                "end": 38,
+                "start": 24,
+                "username": "noth1nghere14"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1701555310006308864",
+        "location": "地霊殿",
+        "name": "シャナ",
+        "pinned_tweet_id": "2020486327016517886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026678441152753671/9a5vO9rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 238,
+          "like_count": 1077,
+          "listed_count": 1,
+          "media_count": 330,
+          "tweet_count": 2282
+        },
+        "username": "Eternal1uv9",
+        "verified": false
+      }
+    ]
+  }
+}

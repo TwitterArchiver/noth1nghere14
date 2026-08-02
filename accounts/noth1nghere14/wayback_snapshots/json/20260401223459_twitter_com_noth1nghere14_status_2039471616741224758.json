@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2039471616741224758",
+    "created_at": "2026-04-01T22:34:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T23:34:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039471616741224758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2039399272819662848",
+          "start": 3,
+          "username": "ChenX100914"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039471616741224758",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039471523212427587",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ChenX100914: 关注寥若晨星谢谢喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2039471616741224758",
+        "created_at": "2026-04-01T22:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T23:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039471616741224758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2039399272819662848",
+              "start": 3,
+              "username": "ChenX100914"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039471616741224758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039471523212427587",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ChenX100914: 关注寥若晨星谢谢喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039399272819662848",
+        "conversation_id": "2039471523212427587",
+        "created_at": "2026-04-01T22:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T23:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039471523212427587"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039471523212427587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "关注寥若晨星谢谢喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "愚蠢至極｜ftx｜我非「我」\n\n♦️@w0sh1Asak1｜🍐 @Eternal1uv9｜🙇🏻‍♀️ @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 44,
+                "start": 32,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 64,
+                "start": 51,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "你常说沉默是类似于回答的浪漫行为",
+        "pinned_tweet_id": "2024968340415123695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036549161773068288/3l_kT2TQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 162,
+          "like_count": 2274,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1049
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T17:48:23.000Z",
+        "description": "极度乐观的悲观主义者☁️\n @noth1nghere14 ｜@Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "noth1nghere14"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "2039399272819662848",
+        "name": "ChenX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039403619964080128/zlm9X1f9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 6,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 2
+        },
+        "username": "ChenX100914",
+        "verified": false
+      }
+    ]
+  }
+}

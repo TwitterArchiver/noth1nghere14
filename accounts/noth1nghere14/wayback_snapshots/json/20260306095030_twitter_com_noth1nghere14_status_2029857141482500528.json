@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2029625513619140608"
+      ],
+      "media_source_tweet_id": [
+        "2029625519990513893"
+      ]
+    },
+    "author_id": "1941411522691072006",
+    "conversation_id": "2029857141482500528",
+    "created_at": "2026-03-06T09:50:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T10:50:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029857141482500528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1736908898727055360",
+          "start": 3,
+          "username": "er_hao96972"
+        },
+        {
+          "end": 30,
+          "id": "1646013705874976768",
+          "start": 17,
+          "username": "girlsbandcry"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z1jPQhSS8O",
+          "end": 54,
+          "expanded_url": "https://x.com/er_hao96972/status/2029625519990513893/photo/1",
+          "media_key": "3_2029625513619140608",
+          "start": 31,
+          "url": "https://t.co/Z1jPQhSS8O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029857141482500528",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029625519990513893",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @er_hao96972: @girlsbandcry https://t.co/Z1jPQhSS8O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2029625513619140608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCqtprZWsAAeBTG.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029625513619140608"
+          ],
+          "media_source_tweet_id": [
+            "2029625519990513893"
+          ]
+        },
+        "author_id": "1941411522691072006",
+        "conversation_id": "2029857141482500528",
+        "created_at": "2026-03-06T09:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T10:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029857141482500528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1736908898727055360",
+              "start": 3,
+              "username": "er_hao96972"
+            },
+            {
+              "end": 30,
+              "id": "1646013705874976768",
+              "start": 17,
+              "username": "girlsbandcry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z1jPQhSS8O",
+              "end": 54,
+              "expanded_url": "https://x.com/er_hao96972/status/2029625519990513893/photo/1",
+              "media_key": "3_2029625513619140608",
+              "start": 31,
+              "url": "https://t.co/Z1jPQhSS8O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029857141482500528",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029625519990513893",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @er_hao96972: @girlsbandcry https://t.co/Z1jPQhSS8O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029625513619140608"
+          ]
+        },
+        "author_id": "1736908898727055360",
+        "conversation_id": "2029149864546672969",
+        "created_at": "2026-03-05T18:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T19:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029625519990513893"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1646013705874976768",
+              "start": 0,
+              "username": "girlsbandcry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z1jPQhSS8O",
+              "end": 37,
+              "expanded_url": "https://x.com/er_hao96972/status/2029625519990513893/photo/1",
+              "media_key": "3_2029625513619140608",
+              "start": 14,
+              "url": "https://t.co/Z1jPQhSS8O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029625519990513893",
+        "in_reply_to_user_id": "1646013705874976768",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 8844,
+          "like_count": 371,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029149864546672969",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@girlsbandcry https://t.co/Z1jPQhSS8O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "愚蠢至極",
+        "id": "1941411522691072006",
+        "name": "否決^",
+        "pinned_tweet_id": "2024968340415123695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024968101696339969/NVHIIoFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 144,
+          "like_count": 2030,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 837
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-19T00:38:55.000Z",
+        "description": "太阳升起，我已归来",
+        "id": "1736908898727055360",
+        "name": "芳二号机",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736909262574538752/b6buOthV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 47,
+          "like_count": 15,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 60
+        },
+        "username": "er_hao96972",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-12T04:53:52.000Z",
+        "description": "オリジナルアニメ『ガールズバンドクライ』公式アカウント\n各サービスにて全話配信中！劇場版総集編 前編・後編 製作決定！\n前編：10月3日(金)、後編：11月14日(金)公開！\n推奨ハッシュタグ： #ガルクラ #トゲナシトゲアリ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 103,
+                "start": 98,
+                "tag": "ガルクラ"
+              },
+              {
+                "end": 113,
+                "start": 104,
+                "tag": "トゲナシトゲアリ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "girls-band-cry.com",
+                "end": 23,
+                "expanded_url": "https://girls-band-cry.com/",
+                "start": 0,
+                "url": "https://t.co/HKW89YsJ1J"
+              }
+            ]
+          }
+        },
+        "id": "1646013705874976768",
+        "name": "アニメ『ガールズバンドクライ』公式",
+        "pinned_tweet_id": "1970458122259972378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741475331314536448/-CMk_tHF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248992,
+          "following_count": 32,
+          "like_count": 3261,
+          "listed_count": 914,
+          "media_count": 2446,
+          "tweet_count": 5944
+        },
+        "url": "https://t.co/HKW89YsJ1J",
+        "username": "girlsbandcry",
+        "verified": true
+      }
+    ]
+  }
+}

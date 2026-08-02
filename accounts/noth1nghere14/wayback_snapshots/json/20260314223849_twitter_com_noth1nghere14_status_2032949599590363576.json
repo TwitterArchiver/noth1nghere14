@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2032949599590363576",
+    "created_at": "2026-03-14T22:38:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T23:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032949599590363576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2002003730334621696",
+          "start": 3,
+          "username": "qinqin170964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032949599590363576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 181
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032494465764749776",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qinqin170964: 哎 好想和所有人暂停在关系最好最舒服的那一刻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2032949599590363576",
+        "created_at": "2026-03-14T22:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T23:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032949599590363576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2002003730334621696",
+              "start": 3,
+              "username": "qinqin170964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032949599590363576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 181
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032494465764749776",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qinqin170964: 哎 好想和所有人暂停在关系最好最舒服的那一刻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002003730334621696",
+        "conversation_id": "2032494465764749776",
+        "created_at": "2026-03-13T16:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T17:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032494465764749776"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032494465764749776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 28830,
+          "like_count": 1177,
+          "quote_count": 7,
+          "reply_count": 3,
+          "retweet_count": 181
+        },
+        "reply_settings": "everyone",
+        "text": "哎 好想和所有人暂停在关系最好最舒服的那一刻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "愚蠢至極\n\n♦️@w0sh1Asak1｜🍐 @Eternal1uv9｜🙇🏻‍♀️ @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 34,
+                "start": 22,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "否決^",
+        "pinned_tweet_id": "2024968340415123695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024968101696339969/NVHIIoFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 145,
+          "like_count": 2111,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 893
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-19T13:11:15.000Z",
+        "description": "来看点让人心情愉悦的/碎碎念/（聊天可以来）私信骚扰我小心你全家/背景可投喂喵/匿名提问https://t.co/sWICt0MoFE",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 67,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 44,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sanshui37463",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sanshui37463",
+                "start": 0,
+                "url": "https://t.co/sWICt0MoFE"
+              }
+            ]
+          }
+        },
+        "id": "2002003730334621696",
+        "location": "喵喵咪咪",
+        "name": "三水",
+        "pinned_tweet_id": "2032911587632390193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024537844824616960/KZgXXFI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 36,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 326
+        },
+        "url": "https://t.co/sWICt0MoFE",
+        "username": "qinqin170964",
+        "verified": false
+      }
+    ]
+  }
+}

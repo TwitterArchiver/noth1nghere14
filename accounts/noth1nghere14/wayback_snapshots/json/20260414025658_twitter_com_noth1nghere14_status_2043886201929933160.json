@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2043841577064534416",
+    "created_at": "2026-04-14T02:56:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T03:56:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043886201929933160"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1530699087133421568",
+          "start": 0,
+          "username": "SpicyspacEmk16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043886201929933160",
+    "in_reply_to_user_id": "1530699087133421568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043841577064534416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SpicyspacEmk16 恭喜丝丝！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043841550900514816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF0vD9Kb0AALmWF.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2043841577064534416",
+        "created_at": "2026-04-14T02:56:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T03:56:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043886201929933160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530699087133421568",
+              "start": 0,
+              "username": "SpicyspacEmk16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043886201929933160",
+        "in_reply_to_user_id": "1530699087133421568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043841577064534416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SpicyspacEmk16 恭喜丝丝！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043841550900514816"
+          ]
+        },
+        "author_id": "1530699087133421568",
+        "conversation_id": "2043841577064534416",
+        "created_at": "2026-04-13T23:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T00:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043841577064534416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qaukkzjEWs",
+              "end": 141,
+              "expanded_url": "https://x.com/SpicyspacEmk16/status/2043841577064534416/photo/1",
+              "media_key": "3_2043841550900514816",
+              "start": 118,
+              "url": "https://t.co/qaukkzjEWs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043841577064534416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 967,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "喔去好像超过3000了！！！\n那我抽十个互关宝宝发钱！！\n每人30 一共300😭\n\n这样这样\n就fo+留言+转发的家人们可以参加\n然后我大概15号晚上开奖\n\n(偷偷摸摸说一下 我可能会给特别喜欢的互关宝宝黑箱一两个你们可以悄悄dm我) https://t.co/qaukkzjEWs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "ftx｜我非「我」\n🌟@ChenX100914 里推@6sasbx\n♦️@w0sh1Asak1｜🍐 @Eternal1uv9｜🙇🏻‍♀️ @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "ChenX100914"
+              },
+              {
+                "end": 33,
+                "start": 26,
+                "username": "6sasbx"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 82,
+                "start": 69,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "否",
+        "pinned_tweet_id": "2042497302250864824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041967484094541824/nFkwwoYQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 168,
+          "like_count": 2401,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1146
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-28T23:54:49.000Z",
+        "description": "名字的简称是スス或者ss也可以叫瞳👁️/ 日本留子🇯🇵|性同一性障害mtf|半个生活推|本垢でも病み垢 一応躁うつ リスカします 閲覧注意 血图掉落率降低中🩸 欢迎找我玩跟互fo DMしってくれたら嬉しい 無言フォロ失礼します",
+        "id": "1530699087133421568",
+        "location": "在爱你的地方💜",
+        "name": "スパイシスペース",
+        "pinned_tweet_id": "2019812622032666925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005651709247524864/F4o_yPoe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3055,
+          "following_count": 1421,
+          "like_count": 93552,
+          "listed_count": 5,
+          "media_count": 772,
+          "tweet_count": 9345
+        },
+        "username": "SpicyspacEmk16",
+        "verified": true
+      }
+    ]
+  }
+}

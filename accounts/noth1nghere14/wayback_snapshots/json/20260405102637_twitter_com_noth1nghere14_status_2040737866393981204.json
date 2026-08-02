@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2040730903752929785",
+    "created_at": "2026-04-05T10:26:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T11:26:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040737866393981204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1217855766167556096",
+          "start": 0,
+          "username": "SummerTwT9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040737866393981204",
+    "in_reply_to_user_id": "1217855766167556096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040737682482209232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SummerTwT9 我就这样 我也特别特别喜欢你呀"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2040737682482209232].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2040737682482209232",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2040737682482209232"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2040730903752929785",
+        "created_at": "2026-04-05T10:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T11:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040737866393981204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1217855766167556096",
+              "start": 0,
+              "username": "SummerTwT9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040737866393981204",
+        "in_reply_to_user_id": "1217855766167556096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040737682482209232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SummerTwT9 我就这样 我也特别特别喜欢你呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "愚蠢至極｜ftx｜我非「我」\n🌟@ChenX100914\n♦️@w0sh1Asak1｜🍐 @Eternal1uv9｜🙇🏻‍♀️ @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "ChenX100914"
+              },
+              {
+                "end": 42,
+                "start": 31,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 57,
+                "start": 45,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "你常说沉默是类似于回答的浪漫行为",
+        "pinned_tweet_id": "2024968340415123695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036549161773068288/3l_kT2TQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 162,
+          "like_count": 2294,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 1063
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-16T17:07:03.000Z",
+        "description": "無休止直至死去",
+        "id": "1217855766167556096",
+        "location": "爱",
+        "name": "未央",
+        "pinned_tweet_id": "2040620066908282948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040658636440244224/NGwbMaJd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 6,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 26
+        },
+        "username": "SummerTwT9",
+        "verified": false
+      }
+    ]
+  }
+}

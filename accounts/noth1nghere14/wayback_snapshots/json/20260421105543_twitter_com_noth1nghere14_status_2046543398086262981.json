@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2046531775871238144"
+      ]
+    },
+    "author_id": "1941411522691072006",
+    "conversation_id": "2046543398086262981",
+    "created_at": "2026-04-21T10:55:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T11:55:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046543398086262981"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1866458229527764992",
+          "start": 3,
+          "username": "Citrus_amara"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046543398086262981",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046531776944980370",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Citrus_amara: 一个粗略的民意调查\n推u们是否存在药物滥用（OD）的情况，以及对禁用普瑞巴林持正面/负面态度？\n我希望投票者可以给出理由。\n非oder见续表"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-04-22T10:09:32.000Z",
+        "id": "2046531775871238144",
+        "options": [
+          {
+            "label": "存在od，支持禁用",
+            "position": 1,
+            "votes": 1
+          },
+          {
+            "label": "存在od，反对禁用",
+            "position": 2,
+            "votes": 8
+          },
+          {
+            "label": "我不是oder，我想看看结果。",
+            "position": 3,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2046531775871238144"
+          ]
+        },
+        "author_id": "1941411522691072006",
+        "conversation_id": "2046543398086262981",
+        "created_at": "2026-04-21T10:55:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:55:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046543398086262981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1866458229527764992",
+              "start": 3,
+              "username": "Citrus_amara"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046543398086262981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046531776944980370",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Citrus_amara: 一个粗略的民意调查\n推u们是否存在药物滥用（OD）的情况，以及对禁用普瑞巴林持正面/负面态度？\n我希望投票者可以给出理由。\n非oder见续表"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2046531775871238144"
+          ]
+        },
+        "author_id": "1866458229527764992",
+        "conversation_id": "2046531776944980370",
+        "created_at": "2026-04-21T10:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T11:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046531776944980370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046531776944980370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 270,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "一个粗略的民意调查\n推u们是否存在药物滥用（OD）的情况，以及对禁用普瑞巴林持正面/负面态度？\n我希望投票者可以给出理由。\n非oder见续表"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "ftx｜我非「我」@AnoChihayaTokyo\n🌟@ChenX100914 里推@6sasbx\n♦️@w0sh1Asak1｜🍐 @Eternal1uv9 @SummerTwT9｜🙇🏻‍♀️ @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "AnoChihayaTokyo"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "ChenX100914"
+              },
+              {
+                "end": 49,
+                "start": 42,
+                "username": "6sasbx"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 90,
+                "start": 79,
+                "username": "SummerTwT9"
+              },
+              {
+                "end": 110,
+                "start": 97,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "否",
+        "pinned_tweet_id": "2042497302250864824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041967484094541824/nFkwwoYQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 178,
+          "like_count": 2486,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1191
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T12:21:43.000Z",
+        "description": "谁的橙子🍊？\nπ@vacue138950丨妹妹 @shsh548866｜主人@zqtlovekris99",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "vacue138950"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "shsh548866"
+              },
+              {
+                "end": 52,
+                "start": 38,
+                "username": "zqtlovekris99"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/citrus_amara",
+                "end": 23,
+                "expanded_url": "https://ngl.link/citrus_amara",
+                "start": 0,
+                "url": "https://t.co/dk3VYjA2Iv"
+              }
+            ]
+          }
+        },
+        "id": "1866458229527764992",
+        "location": "地狱",
+        "name": "🍊超级苦苦苦橙🍊",
+        "pinned_tweet_id": "2045076079778660607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041014657167802368/WOq5BhqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1249,
+          "following_count": 1024,
+          "like_count": 19149,
+          "listed_count": 6,
+          "media_count": 399,
+          "tweet_count": 10942
+        },
+        "url": "https://t.co/dk3VYjA2Iv",
+        "username": "Citrus_amara",
+        "verified": false
+      }
+    ]
+  }
+}

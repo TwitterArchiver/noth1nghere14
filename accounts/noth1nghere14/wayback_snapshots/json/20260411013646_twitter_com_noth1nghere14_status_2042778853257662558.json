@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2042584859387007055",
+    "created_at": "2026-04-11T01:36:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T02:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042778853257662558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1828008363273388032",
+          "start": 0,
+          "username": "akui1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042778853257662558",
+    "in_reply_to_user_id": "1828008363273388032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042772342871593421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akui1121 哈哈哈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2042584859387007055",
+        "created_at": "2026-04-11T01:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T02:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042778853257662558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1828008363273388032",
+              "start": 0,
+              "username": "akui1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042778853257662558",
+        "in_reply_to_user_id": "1828008363273388032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042772342871593421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akui1121 哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1828008363273388032",
+        "conversation_id": "2042584859387007055",
+        "created_at": "2026-04-11T01:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T02:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042772342871593421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1941411522691072006",
+              "start": 0,
+              "username": "noth1nghere14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042772342871593421",
+        "in_reply_to_user_id": "1941411522691072006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042584859387007055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noth1nghere14 点赞了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "多意识体｜ftx｜我非「我」\n🌟@ChenX100914 里推@6sasbx\n♦️@w0sh1Asak1｜🍐 @Eternal1uv9｜🙇🏻‍♀️ @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "ChenX100914"
+              },
+              {
+                "end": 38,
+                "start": 31,
+                "username": "6sasbx"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 67,
+                "start": 55,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 87,
+                "start": 74,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "否",
+        "pinned_tweet_id": "2042497302250864824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041967484094541824/nFkwwoYQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 168,
+          "like_count": 2337,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1109
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-26T09:55:39.000Z",
+        "description": "是 #男娘 ！你知道乌托邦吗，是存在的🥰 🚪120不接推广，致歉，僵尸！我！男生还是女生？机车！理想？！我会有自己的家🚬纯享推 @jiangshi1121 咪@1965chich ，干妹妹@tammy3763",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 2,
+                "tag": "男娘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "jiangshi1121"
+              },
+              {
+                "end": 89,
+                "start": 79,
+                "username": "1965chich"
+              },
+              {
+                "end": 104,
+                "start": 94,
+                "username": "tammy3763"
+              }
+            ]
+          }
+        },
+        "id": "1828008363273388032",
+        "name": "三万媿夜",
+        "pinned_tweet_id": "2022155627494265173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033018960527192064/GB_z9Fg2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27670,
+          "following_count": 1206,
+          "like_count": 20705,
+          "listed_count": 80,
+          "media_count": 1185,
+          "tweet_count": 14832
+        },
+        "username": "akui1121",
+        "verified": false
+      }
+    ]
+  }
+}

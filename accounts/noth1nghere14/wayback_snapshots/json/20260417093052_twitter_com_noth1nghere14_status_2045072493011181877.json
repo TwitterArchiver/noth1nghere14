@@ -1,0 +1,130 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045072449159745536"
+      ]
+    },
+    "author_id": "1941411522691072006",
+    "conversation_id": "2045072493011181877",
+    "created_at": "2026-04-17T09:30:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T10:30:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045072493011181877"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uyh1YIp8vJ",
+          "end": 23,
+          "expanded_url": "https://x.com/noth1nghere14/status/2045072493011181877/photo/1",
+          "media_key": "3_2045072449159745536",
+          "start": 0,
+          "url": "https://t.co/uyh1YIp8vJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045072493011181877",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/uyh1YIp8vJ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2045072493011181877].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2045072493011181877",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2045072493011181877"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2045072449159745536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGGOjqga0AAbnwp.jpg",
+        "width": 860
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "ftx｜我非「我」\n🌟@ChenX100914 里推@6sasbx\n♦️@w0sh1Asak1｜🍐 @Eternal1uv9 @SummerTwT9｜🙇🏻‍♀️ @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "ChenX100914"
+              },
+              {
+                "end": 33,
+                "start": 26,
+                "username": "6sasbx"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "SummerTwT9"
+              },
+              {
+                "end": 94,
+                "start": 81,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "否",
+        "pinned_tweet_id": "2042497302250864824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041967484094541824/nFkwwoYQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 174,
+          "like_count": 2413,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1166
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      }
+    ]
+  }
+}

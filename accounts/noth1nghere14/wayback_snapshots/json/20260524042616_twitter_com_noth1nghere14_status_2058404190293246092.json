@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2058121473953558935",
+    "created_at": "2026-05-24T04:26:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T05:26:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058404190293246092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1961366189491511296",
+          "start": 0,
+          "username": "hnhn9942"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058404190293246092",
+    "in_reply_to_user_id": "1961366189491511296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058401382890446917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hnhn9942 私信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2058121473953558935",
+        "created_at": "2026-05-24T04:26:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:26:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058404190293246092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1961366189491511296",
+              "start": 0,
+              "username": "hnhn9942"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058404190293246092",
+        "in_reply_to_user_id": "1961366189491511296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058401382890446917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hnhn9942 私信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961366189491511296",
+        "conversation_id": "2058121473953558935",
+        "created_at": "2026-05-24T04:15:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:15:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058401382890446917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1941411522691072006",
+              "start": 0,
+              "username": "noth1nghere14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058401382890446917",
+        "in_reply_to_user_id": "1941411522691072006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058121473953558935",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noth1nghere14 问问价"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "ftx｜我非「我」\n🌟@ChenX100914 里推@6sasbx\n🍐 @Eternal1uv9 @SummerTwT9｜🙇🏻‍♀️ @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "ChenX100914"
+              },
+              {
+                "end": 33,
+                "start": 26,
+                "username": "6sasbx"
+              },
+              {
+                "end": 48,
+                "start": 36,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "username": "SummerTwT9"
+              },
+              {
+                "end": 80,
+                "start": 67,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "否",
+        "pinned_tweet_id": "2042497302250864824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054387945420005376/Sz8V03LN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 175,
+          "like_count": 2505,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1228
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-29T09:52:15.000Z",
+        "description": "只是一个爱碎碎念的小女孩 女高没什么时间抱歉 入门请私信我~🚪52/128/188 入门我天天骚扰你！ 熟人请自避（私信不回可能是被吞掉了 tt我拜托啦~）",
+        "id": "1961366189491511296",
+        "location": "摸摸小猫头",
+        "name": "睡醒就嘟嘟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019103235844501511/awx22Q4J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 60,
+          "like_count": 1020,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 410
+        },
+        "username": "hnhn9942",
+        "verified": false
+      }
+    ]
+  }
+}

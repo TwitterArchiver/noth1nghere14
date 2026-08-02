@@ -1,0 +1,124 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2041969728026227155",
+    "created_at": "2026-04-08T20:01:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T21:01:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041969728026227155"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2041969728026227155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "如果你未曾醒来 叙事可以转换成恨\n直接的恨意比爱恨交加更好\n可你现在醒了\n我想这是说不出口的我爱你 我恨你\n陪着我吧 不要再睡着了 \n不要离开我了 saki"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2041969728026227155",
+        "created_at": "2026-04-08T20:01:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T21:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041969728026227155"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041969728026227155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果你未曾醒来 叙事可以转换成恨\n直接的恨意比爱恨交加更好\n可你现在醒了\n我想这是说不出口的我爱你 我恨你\n陪着我吧 不要再睡着了 \n不要离开我了 saki"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "愚蠢至極｜ftx｜我非「我」\n🌟@ChenX100914 里推@6sasbx\n♦️@w0sh1Asak1｜🍐 @Eternal1uv9｜🙇🏻‍♀️ @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "ChenX100914"
+              },
+              {
+                "end": 38,
+                "start": 31,
+                "username": "6sasbx"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 67,
+                "start": 55,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 87,
+                "start": 74,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "否",
+        "pinned_tweet_id": "2024968340415123695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041967484094541824/nFkwwoYQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 163,
+          "like_count": 2316,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1098
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      }
+    ]
+  }
+}

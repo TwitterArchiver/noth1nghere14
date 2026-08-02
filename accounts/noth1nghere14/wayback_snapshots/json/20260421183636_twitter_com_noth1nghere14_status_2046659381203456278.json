@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2046659381203456278",
+    "created_at": "2026-04-21T18:36:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T19:36:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046659381203456278"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/noth1nghere14/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/noth1nghere14/status/2042584859387007055",
+          "start": 8,
+          "url": "https://t.co/excUkIHHwo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046659381203456278",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042584859387007055",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这句话是对的。 https://t.co/excUkIHHwo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2046659381203456278",
+        "created_at": "2026-04-21T18:36:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T19:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046659381203456278"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/noth1nghere14/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/noth1nghere14/status/2042584859387007055",
+              "start": 8,
+              "url": "https://t.co/excUkIHHwo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046659381203456278",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042584859387007055",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这句话是对的。 https://t.co/excUkIHHwo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2042584859387007055",
+        "created_at": "2026-04-10T12:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T13:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042584859387007055"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042584859387007055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 11830,
+          "like_count": 150,
+          "quote_count": 5,
+          "reply_count": 22,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "od区智力低"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "ftx｜我非「我」@AnoChihayaTokyo\n🌟@ChenX100914 里推@6sasbx\n♦️@w0sh1Asak1｜🍐 @Eternal1uv9 @SummerTwT9｜🙇🏻‍♀️ @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "AnoChihayaTokyo"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "ChenX100914"
+              },
+              {
+                "end": 49,
+                "start": 42,
+                "username": "6sasbx"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 90,
+                "start": 79,
+                "username": "SummerTwT9"
+              },
+              {
+                "end": 110,
+                "start": 97,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "否",
+        "pinned_tweet_id": "2042497302250864824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041967484094541824/nFkwwoYQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 178,
+          "like_count": 2488,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 1195
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      }
+    ]
+  }
+}

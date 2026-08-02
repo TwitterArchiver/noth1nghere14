@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2048531463491223773",
+    "created_at": "2026-04-26T22:37:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T23:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048532028862366055"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2039399272819662848",
+          "start": 0,
+          "username": "ChenX100914"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048532028862366055",
+    "in_reply_to_user_id": "2039399272819662848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048531463491223773",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChenX100914 我也爱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2048531463491223773",
+        "created_at": "2026-04-26T22:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T23:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048532028862366055"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2039399272819662848",
+              "start": 0,
+              "username": "ChenX100914"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048532028862366055",
+        "in_reply_to_user_id": "2039399272819662848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048531463491223773",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChenX100914 我也爱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039399272819662848",
+        "conversation_id": "2048531463491223773",
+        "created_at": "2026-04-26T22:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T23:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048531463491223773"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048531463491223773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很爱你 不想你难过不想你伤心\n我真的很爱你，我的爱太廉价了 不要离开我好吗\n我会喜欢你一辈子 喜欢你直到我死 不要走 不要离开我\n多骗骗我 我不在乎现在的是谁 不在乎你是什么样的人 \n我真的很爱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "ftx｜我非「我」@AnoChihayaTokyo\n🌟@ChenX100914 里推@6sasbx\n♦️@w0sh1Asak1｜🍐 @Eternal1uv9 @SummerTwT9｜🙇🏻‍♀️ @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "AnoChihayaTokyo"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "ChenX100914"
+              },
+              {
+                "end": 49,
+                "start": 42,
+                "username": "6sasbx"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 90,
+                "start": 79,
+                "username": "SummerTwT9"
+              },
+              {
+                "end": 110,
+                "start": 97,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "否",
+        "pinned_tweet_id": "2042497302250864824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041967484094541824/nFkwwoYQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 179,
+          "like_count": 2492,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1207
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T17:48:23.000Z",
+        "description": "极度乐观的悲观主义者☁️\n @noth1nghere14 ｜@Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "noth1nghere14"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "2039399272819662848",
+        "name": "ChenX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039403619964080128/zlm9X1f9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 8,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "username": "ChenX100914",
+        "verified": false
+      }
+    ]
+  }
+}

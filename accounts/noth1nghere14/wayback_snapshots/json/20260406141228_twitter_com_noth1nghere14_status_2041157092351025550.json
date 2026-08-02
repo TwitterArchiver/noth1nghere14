@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2041151217133576313",
+    "created_at": "2026-04-06T14:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T15:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041157092351025550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1993231832939479052",
+          "start": 0,
+          "username": "voidokindo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041157092351025550",
+    "in_reply_to_user_id": "1993231832939479052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041151217133576313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@voidokindo 我爱你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2041151217133576313",
+        "created_at": "2026-04-06T14:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T15:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041157092351025550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1993231832939479052",
+              "start": 0,
+              "username": "voidokindo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041157092351025550",
+        "in_reply_to_user_id": "1993231832939479052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041151217133576313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@voidokindo 我爱你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993231832939479052",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Health, mind and body",
+              "id": "859532297376219136",
+              "name": "Health & wellness books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Health, mind and body",
+              "id": "859532297376219136",
+              "name": "Health & wellness books"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2041151217133576313",
+        "created_at": "2026-04-06T13:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T14:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041151217133576313"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041151217133576313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈莫名奇妙的被生出来到这个世界，让我度过了不幸的童年，痛苦的少年和绝望的青年。我无法爱人，也没办法被人爱。金钱，疼爱，健康，我一个都没有。莫名其妙让我面对可能随时都要承担的病痛，饥饿，死亡，痛苦。\n我懵逼的来到这个世界，再懵逼的离开。从始至终诞生和死亡都不是我的本愿。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "愚蠢至極｜ftx｜我非「我」\n🌟@ChenX100914\n♦️@w0sh1Asak1｜🍐 @Eternal1uv9｜🙇🏻‍♀️ @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "ChenX100914"
+              },
+              {
+                "end": 42,
+                "start": 31,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 57,
+                "start": 45,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "你常说沉默是类似于回答的浪漫行为",
+        "pinned_tweet_id": "2024968340415123695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036549161773068288/3l_kT2TQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 162,
+          "like_count": 2305,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1079
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T08:15:42.000Z",
+        "description": "Loveless",
+        "id": "1993231832939479052",
+        "location": "מִגְדַּל בָּבֶל",
+        "name": "Emanon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020695268401008641/pNHc6979_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 57,
+          "like_count": 539,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 89
+        },
+        "username": "voidokindo",
+        "verified": false
+      }
+    ]
+  }
+}

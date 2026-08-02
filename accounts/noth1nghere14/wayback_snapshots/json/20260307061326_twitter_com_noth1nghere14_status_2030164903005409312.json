@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2029935327272681798",
+    "created_at": "2026-03-07T06:13:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T07:13:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030164903005409312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1772241946050015232",
+          "start": 0,
+          "username": "Re1_y0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030164903005409312",
+    "in_reply_to_user_id": "1772241946050015232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029935327272681798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Re1_y0 宝子没事的去看看吧 大多数人都会有结节的 我妈结节快十年多了都没有很严重"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2029935327272681798",
+        "created_at": "2026-03-07T06:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T07:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030164903005409312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1772241946050015232",
+              "start": 0,
+              "username": "Re1_y0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030164903005409312",
+        "in_reply_to_user_id": "1772241946050015232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029935327272681798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Re1_y0 宝子没事的去看看吧 大多数人都会有结节的 我妈结节快十年多了都没有很严重"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772241946050015232",
+        "conversation_id": "2029935327272681798",
+        "created_at": "2026-03-06T15:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T16:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029935327272681798"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029935327272681798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 309,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操 我左边仍子有个结节 之前是小小的摸起来像豆子一样滑滑的 最近生理期变大了好痛啊我靠 想去医院看但是不敢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "愚蠢至極",
+        "id": "1941411522691072006",
+        "name": "否決^",
+        "pinned_tweet_id": "2024968340415123695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024968101696339969/NVHIIoFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 144,
+          "like_count": 2038,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 842
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-25T12:39:51.000Z",
+        "description": "=蕾 160/50kg｜🚪88/188/288/520 /1314 入门赞赏码or口令 入门即可解锁视频图包｜ 线下和定制视频请过188🚪咨询‼️（定制看具体要求定价）会报价格和坐标 除过门外私信一律不回‼️不喜欢疑神疑鬼没礼貌的人 ‼️验证20r｜‼️此号被冻找@tintinPPHf ｜女朋友 @Asszeqr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 132,
+                "username": "tintinPPHf"
+              },
+              {
+                "end": 157,
+                "start": 149,
+                "username": "Asszeqr"
+              }
+            ]
+          }
+        },
+        "id": "1772241946050015232",
+        "location": "可验证 需20r",
+        "name": "レイ",
+        "pinned_tweet_id": "2029154354243223883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941105999663742976/hbTbUloE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3296,
+          "following_count": 288,
+          "like_count": 1936,
+          "listed_count": 5,
+          "media_count": 837,
+          "tweet_count": 5400
+        },
+        "username": "Re1_y0",
+        "verified": false
+      }
+    ]
+  }
+}

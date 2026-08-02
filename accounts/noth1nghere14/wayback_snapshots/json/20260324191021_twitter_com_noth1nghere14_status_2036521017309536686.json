@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2036521017309536686",
+    "created_at": "2026-03-24T19:10:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T20:10:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2036521017309536686"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yhbkqs/status/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/yhbkqs/status/2036106440583360635",
+          "start": 4,
+          "url": "https://t.co/MryVz3zLZY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036521017309536686",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036106440583360635",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "装甲车 https://t.co/MryVz3zLZY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15186,
+        "height": 1280,
+        "media_key": "13_2036106360937754624",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2036106360937754624/img/uflEqSYQy8VsdprG.jpg",
+        "public_metrics": {
+          "view_count": 101675
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036106360937754624/vid/avc1/320x580/5Mb2d92QRNQJr7JZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036106360937754624/vid/avc1/480x872/xUzIcx6XqKK11lFz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036106360937754624/vid/avc1/704x1280/52vN2wcXFyJ1l-fn.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2036106360937754624/pl/WiuFy4vAO6fmQqLL.m3u8?v=d2a"
+          }
+        ],
+        "width": 704
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2036521017309536686",
+        "created_at": "2026-03-24T19:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T20:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036521017309536686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yhbkqs/status/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/yhbkqs/status/2036106440583360635",
+              "start": 4,
+              "url": "https://t.co/MryVz3zLZY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036521017309536686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036106440583360635",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "装甲车 https://t.co/MryVz3zLZY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2036106360937754624"
+          ]
+        },
+        "author_id": "1603306318139248640",
+        "conversation_id": "2036106440583360635",
+        "created_at": "2026-03-23T15:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T16:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036106440583360635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Msc727cmk6",
+              "end": 61,
+              "expanded_url": "https://x.com/yhbkqs/status/2036106440583360635/video/1",
+              "media_key": "13_2036106360937754624",
+              "start": 38,
+              "url": "https://t.co/Msc727cmk6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036106440583360635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 539,
+          "impression_count": 264694,
+          "like_count": 3078,
+          "quote_count": 32,
+          "reply_count": 87,
+          "retweet_count": 300
+        },
+        "reply_settings": "everyone",
+        "text": "水豚是一种能与任何人相处融洽的动物，现在人们发现它竟然用犰狳作为交通工具。 https://t.co/Msc727cmk6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "愚蠢至極｜ftx｜我非「我」\n\n♦️@w0sh1Asak1｜🍐 @Eternal1uv9｜🙇🏻‍♀️ @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 44,
+                "start": 32,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 64,
+                "start": 51,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "否決^",
+        "pinned_tweet_id": "2024968340415123695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024968101696339969/NVHIIoFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 157,
+          "like_count": 2195,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 967
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-15T08:30:27.000Z",
+        "description": "以知识交流分享为主，既有深度内容也有轻松内容，高信息密度",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nav.wangluobaozang.com",
+                "end": 23,
+                "expanded_url": "http://nav.wangluobaozang.com",
+                "start": 0,
+                "url": "https://t.co/lCCvjCqaKm"
+              }
+            ]
+          }
+        },
+        "id": "1603306318139248640",
+        "location": "California City, CA",
+        "name": "银河百科全书",
+        "pinned_tweet_id": "2022559329149403494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604029153988481025/4LhC3HBZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13989,
+          "following_count": 827,
+          "like_count": 45,
+          "listed_count": 60,
+          "media_count": 763,
+          "tweet_count": 5216
+        },
+        "url": "https://t.co/lCCvjCqaKm",
+        "username": "yhbkqs",
+        "verified": true
+      }
+    ]
+  }
+}

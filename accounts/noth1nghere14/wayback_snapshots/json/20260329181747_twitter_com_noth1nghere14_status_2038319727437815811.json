@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2034805286402498604",
+    "created_at": "2026-03-29T18:17:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T19:17:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038319727437815811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1926098091821727744",
+          "start": 0,
+          "username": "superikun_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038319727437815811",
+    "in_reply_to_user_id": "1926098091821727744",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038272826189492458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@superikun_ 休学完啦"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2038272826189492458].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2038272826189492458",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2038272826189492458"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2034805286402498604",
+        "created_at": "2026-03-29T18:17:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T19:17:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038319727437815811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1926098091821727744",
+              "start": 0,
+              "username": "superikun_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038319727437815811",
+        "in_reply_to_user_id": "1926098091821727744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038272826189492458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@superikun_ 休学完啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "愚蠢至極｜ftx｜我非「我」\n\n♦️@w0sh1Asak1｜🍐 @Eternal1uv9｜🙇🏻‍♀️ @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 44,
+                "start": 32,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 64,
+                "start": 51,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "你常说沉默是类似于回答的浪漫行为",
+        "pinned_tweet_id": "2024968340415123695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036549161773068288/3l_kT2TQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 159,
+          "like_count": 2248,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 994
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-24T02:09:21.000Z",
+        "description": "",
+        "id": "1926098091821727744",
+        "name": "超级板板板板烧鸡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001190376171089920/Pc70hQ0e_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 54,
+          "like_count": 151,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 112
+        },
+        "username": "superikun_",
+        "verified": false
+      }
+    ]
+  }
+}

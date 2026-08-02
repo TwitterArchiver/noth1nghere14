@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2029974645747896439",
+    "created_at": "2026-03-08T10:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T11:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030589106481406346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1701555310006308864",
+          "start": 0,
+          "username": "Eternal1uv9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030589106481406346",
+    "in_reply_to_user_id": "1701555310006308864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029974645747896439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eternal1uv9 好美的文字😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2029974645747896439",
+        "created_at": "2026-03-08T10:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T11:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030589106481406346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1701555310006308864",
+              "start": 0,
+              "username": "Eternal1uv9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030589106481406346",
+        "in_reply_to_user_id": "1701555310006308864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029974645747896439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eternal1uv9 好美的文字😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1701555310006308864",
+        "conversation_id": "2029974645747896439",
+        "created_at": "2026-03-06T17:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T18:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029974645747896439"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029974645747896439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 347,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "粉色的季节随着樱花一起飘落凋零\n最美的年纪定格在绮丽的季节\n或许在空中我会展开双臂去拥抱春天\n柔软的草地是我最舒适的床\n等到那一天我会获得真正的自由\n再也没有药物的禁锢，社会的摧残\n我要成为那知晓天空之蓝的人\n他们以为我疯了，其实我获得了真正的幸福\n请赐予我幸福之死吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "愚蠢至極",
+        "id": "1941411522691072006",
+        "name": "否決^",
+        "pinned_tweet_id": "2024968340415123695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024968101696339969/NVHIIoFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 146,
+          "like_count": 2065,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 865
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T11:16:56.000Z",
+        "description": "云@fu_shingi95819//绿子@Minakami_Konata//久@LinJiuQAQ//湊@ecstasy_myslee//🤍@ToniKroos",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 1,
+                "username": "fu_shingi95819"
+              },
+              {
+                "end": 36,
+                "start": 20,
+                "username": "Minakami_Konata"
+              },
+              {
+                "end": 49,
+                "start": 39,
+                "username": "LinJiuQAQ"
+              },
+              {
+                "end": 67,
+                "start": 52,
+                "username": "ecstasy_myslee"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "ToniKroos"
+              }
+            ]
+          }
+        },
+        "id": "1701555310006308864",
+        "location": "地霊殿",
+        "name": "シャナ",
+        "pinned_tweet_id": "2020486327016517886",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026678441152753671/9a5vO9rd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 226,
+          "like_count": 978,
+          "listed_count": 1,
+          "media_count": 319,
+          "tweet_count": 2187
+        },
+        "username": "Eternal1uv9",
+        "verified": false
+      }
+    ]
+  }
+}

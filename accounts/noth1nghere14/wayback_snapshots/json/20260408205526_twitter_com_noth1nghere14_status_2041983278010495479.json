@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2041968109612101685",
+    "created_at": "2026-04-08T20:55:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T21:55:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041983278010495479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2039399272819662848",
+          "start": 0,
+          "username": "ChenX100914"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041983278010495479",
+    "in_reply_to_user_id": "2039399272819662848",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041968109612101685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChenX100914 希望是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2041968109612101685",
+        "created_at": "2026-04-08T20:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T21:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041983278010495479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2039399272819662848",
+              "start": 0,
+              "username": "ChenX100914"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041983278010495479",
+        "in_reply_to_user_id": "2039399272819662848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041968109612101685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChenX100914 希望是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039399272819662848",
+        "conversation_id": "2041968109612101685",
+        "created_at": "2026-04-08T19:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T20:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041968109612101685"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041968109612101685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "皆大欢喜！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "我爱你 我恨你｜ftx｜我非「我」\n🌟@ChenX100914 里推@6sasbx\n♦️@w0sh1Asak1｜🍐 @Eternal1uv9｜🙇🏻‍♀️ @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "ChenX100914"
+              },
+              {
+                "end": 41,
+                "start": 34,
+                "username": "6sasbx"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "否",
+        "pinned_tweet_id": "2041969992602976434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041967484094541824/nFkwwoYQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 163,
+          "like_count": 2316,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1101
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T17:48:23.000Z",
+        "description": "极度乐观的悲观主义者☁️\n @noth1nghere14 ｜@Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 14,
+                "username": "noth1nghere14"
+              },
+              {
+                "end": 43,
+                "start": 30,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "2039399272819662848",
+        "name": "ChenX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039403619964080128/zlm9X1f9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 6,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "ChenX100914",
+        "verified": false
+      }
+    ]
+  }
+}

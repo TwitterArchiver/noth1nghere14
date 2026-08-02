@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2035881534608351351",
+    "created_at": "2026-03-23T00:49:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T01:49:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035881534608351351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1421851995355369477",
+          "start": 3,
+          "username": "Aichijiandanxyz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035881534608351351",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 76
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032469489506234663",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aichijiandanxyz: 我一直在推特分享生活，就是因为我的日常、情绪…不想分享给特定的人给他们造成负担，一两次还好，我觉得次数多了，是个人都会烦，没人那么想关心你的生活，没人有义务当你的情绪垃圾桶。\n不说出来我又觉得浪费，人至少需要一个可以宣泄的地方，谢谢推特…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2035881534608351351",
+        "created_at": "2026-03-23T00:49:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T01:49:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035881534608351351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1421851995355369477",
+              "start": 3,
+              "username": "Aichijiandanxyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035881534608351351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 76
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032469489506234663",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aichijiandanxyz: 我一直在推特分享生活，就是因为我的日常、情绪…不想分享给特定的人给他们造成负担，一两次还好，我觉得次数多了，是个人都会烦，没人那么想关心你的生活，没人有义务当你的情绪垃圾桶。\n不说出来我又觉得浪费，人至少需要一个可以宣泄的地方，谢谢推特…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1421851995355369477",
+        "conversation_id": "2032469489506234663",
+        "created_at": "2026-03-13T14:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T15:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032469489506234663"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032469489506234663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 44586,
+          "like_count": 563,
+          "quote_count": 28,
+          "reply_count": 20,
+          "retweet_count": 76
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在推特分享生活，就是因为我的日常、情绪…不想分享给特定的人给他们造成负担，一两次还好，我觉得次数多了，是个人都会烦，没人那么想关心你的生活，没人有义务当你的情绪垃圾桶。\n不说出来我又觉得浪费，人至少需要一个可以宣泄的地方，谢谢推特，谢谢跟我互动的人。\n推特——一种交互式日记本。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "愚蠢至極\n\n♦️@w0sh1Asak1｜🍐 @Eternal1uv9｜🙇🏻‍♀️ @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 8,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 34,
+                "start": 22,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 54,
+                "start": 41,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "否決^",
+        "pinned_tweet_id": "2024968340415123695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024968101696339969/NVHIIoFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 154,
+          "like_count": 2176,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 955
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-01T15:15:33.000Z",
+        "description": "思维补丁，本体是🥚\n\n@eggyyybaby\n#煎蛋不想说话就唱歌吧\n#蛋喘",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 34,
+                "start": 23,
+                "tag": "煎蛋不想说话就唱歌吧"
+              },
+              {
+                "end": 38,
+                "start": 35,
+                "tag": "蛋喘"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 22,
+                "start": 11,
+                "username": "eggyyybaby"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cmespeed.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://cmespeed.com/#/register?code=qnpQSfop",
+                "start": 0,
+                "url": "https://t.co/NEXqoJ99mw"
+              }
+            ]
+          }
+        },
+        "id": "1421851995355369477",
+        "location": "🍳🪜→",
+        "name": "煎蛋棉被",
+        "pinned_tweet_id": "1844974218825400809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922277650879676418/p7_qBFWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20842,
+          "following_count": 329,
+          "like_count": 161935,
+          "listed_count": 57,
+          "media_count": 8170,
+          "tweet_count": 76959
+        },
+        "url": "https://t.co/NEXqoJ99mw",
+        "username": "Aichijiandanxyz",
+        "verified": false
+      }
+    ]
+  }
+}

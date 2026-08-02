@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048443815892226048",
+        "3_2048443816936640512"
+      ]
+    },
+    "author_id": "1941411522691072006",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2048443837572685898",
+    "created_at": "2026-04-26T16:47:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T17:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048443837572685898"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2JjNxQWvpm",
+          "end": 23,
+          "expanded_url": "https://x.com/noth1nghere14/status/2048443837572685898/photo/1",
+          "media_key": "3_2048443815892226048",
+          "start": 0,
+          "url": "https://t.co/2JjNxQWvpm"
+        },
+        {
+          "display_url": "pic.x.com/2JjNxQWvpm",
+          "end": 23,
+          "expanded_url": "https://x.com/noth1nghere14/status/2048443837572685898/photo/1",
+          "media_key": "3_2048443816936640512",
+          "start": 0,
+          "url": "https://t.co/2JjNxQWvpm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048443837572685898",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/2JjNxQWvpm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2048443815892226048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2IzCSaEAARaRB.jpg",
+        "width": 471
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2048443816936640512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2IzGLakAAHrQI.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048443815892226048",
+            "3_2048443816936640512"
+          ]
+        },
+        "author_id": "1941411522691072006",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048443837572685898",
+        "created_at": "2026-04-26T16:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048443837572685898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2JjNxQWvpm",
+              "end": 23,
+              "expanded_url": "https://x.com/noth1nghere14/status/2048443837572685898/photo/1",
+              "media_key": "3_2048443815892226048",
+              "start": 0,
+              "url": "https://t.co/2JjNxQWvpm"
+            },
+            {
+              "display_url": "pic.x.com/2JjNxQWvpm",
+              "end": 23,
+              "expanded_url": "https://x.com/noth1nghere14/status/2048443837572685898/photo/1",
+              "media_key": "3_2048443816936640512",
+              "start": 0,
+              "url": "https://t.co/2JjNxQWvpm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048443837572685898",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/2JjNxQWvpm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "ftx｜我非「我」@AnoChihayaTokyo\n🌟@ChenX100914 里推@6sasbx\n♦️@w0sh1Asak1｜🍐 @Eternal1uv9 @SummerTwT9｜🙇🏻‍♀️ @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 9,
+                "username": "AnoChihayaTokyo"
+              },
+              {
+                "end": 39,
+                "start": 27,
+                "username": "ChenX100914"
+              },
+              {
+                "end": 49,
+                "start": 42,
+                "username": "6sasbx"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 78,
+                "start": 66,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 90,
+                "start": 79,
+                "username": "SummerTwT9"
+              },
+              {
+                "end": 110,
+                "start": 97,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "否",
+        "pinned_tweet_id": "2042497302250864824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041967484094541824/nFkwwoYQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 179,
+          "like_count": 2491,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 1206
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      }
+    ]
+  }
+}

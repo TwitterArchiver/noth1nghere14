@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2038776117952385036",
+    "created_at": "2026-03-31T01:49:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T02:49:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038795685726925073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1993231832939479052",
+          "start": 0,
+          "username": "voidokindo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038795685726925073",
+    "in_reply_to_user_id": "1993231832939479052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038795541338075640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@voidokindo 无趣啊，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2038776117952385036",
+        "created_at": "2026-03-31T01:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T02:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038795685726925073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1993231832939479052",
+              "start": 0,
+              "username": "voidokindo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038795685726925073",
+        "in_reply_to_user_id": "1993231832939479052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038795541338075640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@voidokindo 无趣啊，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993231832939479052",
+        "conversation_id": "2038776117952385036",
+        "created_at": "2026-03-31T01:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T02:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038795541338075640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1941411522691072006",
+              "start": 0,
+              "username": "noth1nghere14"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038795541338075640",
+        "in_reply_to_user_id": "1941411522691072006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038776117952385036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noth1nghere14 吃了就不无趣了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "愚蠢至極｜ftx｜我非「我」\n\n♦️@w0sh1Asak1｜🍐 @Eternal1uv9｜🙇🏻‍♀️ @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 44,
+                "start": 32,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 64,
+                "start": 51,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "你常说沉默是类似于回答的浪漫行为",
+        "pinned_tweet_id": "2024968340415123695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036549161773068288/3l_kT2TQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 161,
+          "like_count": 2258,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1024
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T08:15:42.000Z",
+        "description": "距离上一次与熟悉的陌生人相认又过去多久了呢？因为ai/SOlate而DEEP/SEEK的Loveless。",
+        "id": "1993231832939479052",
+        "location": "מִגְדַּל בָּבֶל",
+        "name": "Emanon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020695268401008641/pNHc6979_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 57,
+          "like_count": 516,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 84
+        },
+        "username": "voidokindo",
+        "verified": false
+      }
+    ]
+  }
+}

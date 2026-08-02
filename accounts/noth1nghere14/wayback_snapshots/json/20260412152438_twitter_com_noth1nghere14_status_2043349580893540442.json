@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2043349580893540442",
+    "created_at": "2026-04-12T15:24:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T16:24:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043349580893540442"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vacue138950/st…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/vacue138950/status/2043321689891885200",
+          "start": 31,
+          "url": "https://t.co/kmxfbeh5x0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043349580893540442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043321689891885200",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "所以说我始终认为死亡不存在任何的情绪价值\n只是一个单薄的句号 https://t.co/kmxfbeh5x0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2043349580893540442",
+        "created_at": "2026-04-12T15:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T16:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043349580893540442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vacue138950/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/vacue138950/status/2043321689891885200",
+              "start": 31,
+              "url": "https://t.co/kmxfbeh5x0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043349580893540442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043321689891885200",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "所以说我始终认为死亡不存在任何的情绪价值\n只是一个单薄的句号 https://t.co/kmxfbeh5x0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958507577077342208",
+        "conversation_id": "2043321689891885200",
+        "created_at": "2026-04-12T13:33:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T14:33:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043321689891885200"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043321689891885200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1103,
+          "like_count": 37,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只是想告诫药圈里的小孩们：\n现实的死亡并不是一件富有美感的事情。别被一个又一个的死亡事件吸引而扭曲了价值。这不是戏剧。\n我对此感到厌烦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "ftx｜我非「我」\n🌟@ChenX100914 里推@6sasbx\n♦️@w0sh1Asak1｜🍐 @Eternal1uv9｜🙇🏻‍♀️ @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "ChenX100914"
+              },
+              {
+                "end": 33,
+                "start": 26,
+                "username": "6sasbx"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 82,
+                "start": 69,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "否",
+        "pinned_tweet_id": "2042497302250864824",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041967484094541824/nFkwwoYQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 167,
+          "like_count": 2377,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1133
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-21T12:32:55.000Z",
+        "description": "Cheminformatics & Biohacker | AuDHD/DID | enby | Signal VacueNexus.99 | 空宇回寰無駐形，道極荒墟不聞歌 | qpr: @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 95,
+                "username": "Citrus_amara"
+              }
+            ]
+          }
+        },
+        "id": "1958507577077342208",
+        "location": "幻想郷",
+        "name": "Vacue",
+        "pinned_tweet_id": "1997401990079623617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984602181870252032/K_zhtg0d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 714,
+          "like_count": 2989,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 857
+        },
+        "username": "Vacue138950",
+        "verified": false
+      }
+    ]
+  }
+}

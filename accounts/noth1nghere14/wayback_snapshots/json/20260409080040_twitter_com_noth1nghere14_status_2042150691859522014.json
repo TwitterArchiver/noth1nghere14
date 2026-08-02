@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2042133485599781210",
+    "created_at": "2026-04-09T08:00:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T09:00:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042150691859522014"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1816148552764252169",
+          "start": 0,
+          "username": "w0sh1Asak1"
+        },
+        {
+          "end": 26,
+          "id": "1837114188046684161",
+          "start": 12,
+          "username": "winterfruit_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042150691859522014",
+    "in_reply_to_user_id": "1816148552764252169",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042133774818013597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@w0sh1Asak1 @winterfruit_1 对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2042133485599781210",
+        "created_at": "2026-04-09T08:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T09:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042150691859522014"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1816148552764252169",
+              "start": 0,
+              "username": "w0sh1Asak1"
+            },
+            {
+              "end": 26,
+              "id": "1837114188046684161",
+              "start": 12,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042150691859522014",
+        "in_reply_to_user_id": "1816148552764252169",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042133774818013597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@w0sh1Asak1 @winterfruit_1 对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1816148552764252169",
+        "conversation_id": "2042133485599781210",
+        "created_at": "2026-04-09T06:53:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T07:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042133774818013597"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1837114188046684161",
+              "start": 0,
+              "username": "winterfruit_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042133774818013597",
+        "in_reply_to_user_id": "1837114188046684161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042133485599781210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@winterfruit_1 兑！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "我爱你 我恨你｜ftx｜我非「我」\n🌟@ChenX100914 里推@6sasbx\n♦️@w0sh1Asak1｜🍐 @Eternal1uv9｜🙇🏻‍♀️ @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "ChenX100914"
+              },
+              {
+                "end": 41,
+                "start": 34,
+                "username": "6sasbx"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 70,
+                "start": 58,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 90,
+                "start": 77,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "否",
+        "pinned_tweet_id": "2041969992602976434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041967484094541824/nFkwwoYQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 163,
+          "like_count": 2325,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1105
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-24T16:29:11.000Z",
+        "description": "♦️ACE 性格恶劣 oder Love @winterfruit_1/ 可可@Truffaut897456/ 唧唧@Jiji_O_o_jiiii/鸟兽兽@abt514514/前卫@vanofthess/ 小K @akinoyo_desu/江别@cy79p/渡川@noth1nghere14",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 21,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 54,
+                "start": 39,
+                "username": "Truffaut897456"
+              },
+              {
+                "end": 73,
+                "start": 58,
+                "username": "Jiji_O_o_jiiii"
+              },
+              {
+                "end": 87,
+                "start": 77,
+                "username": "abt514514"
+              },
+              {
+                "end": 101,
+                "start": 90,
+                "username": "vanofthess"
+              },
+              {
+                "end": 119,
+                "start": 106,
+                "username": "akinoyo_desu"
+              },
+              {
+                "end": 128,
+                "start": 122,
+                "username": "cy79p"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "noth1nghere14"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "winiter420love.com",
+                "end": 23,
+                "expanded_url": "http://www.winiter420love.com",
+                "start": 0,
+                "url": "https://t.co/SmL8HfGRs4"
+              }
+            ]
+          }
+        },
+        "id": "1816148552764252169",
+        "location": "我愛你！",
+        "name": "天才美少女Asak11111",
+        "pinned_tweet_id": "2012782792518627830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012602006511161344/AK7fOLhA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 817,
+          "like_count": 28726,
+          "listed_count": 3,
+          "media_count": 578,
+          "tweet_count": 12805
+        },
+        "url": "https://t.co/SmL8HfGRs4",
+        "username": "w0sh1Asak1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T12:59:07.000Z",
+        "description": "@w0sh1Asak1 / Winit420\n药物百科：https://t.co/7hcA5pxk71",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "w0sh1Asak1"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 51,
+                "expanded_url": "https://yaowubaike.ca",
+                "start": 28,
+                "url": "https://t.co/7hcA5pxk71"
+              }
+            ]
+          }
+        },
+        "id": "1837114188046684161",
+        "location": "下一个将死未死的夏季",
+        "name": "Winit420",
+        "pinned_tweet_id": "2039322185937166439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040973681523097600/jukOikL6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2494,
+          "following_count": 1463,
+          "like_count": 39273,
+          "listed_count": 7,
+          "media_count": 1666,
+          "tweet_count": 11503
+        },
+        "username": "winterfruit_1",
+        "verified": false
+      }
+    ]
+  }
+}

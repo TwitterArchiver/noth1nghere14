@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1941411522691072006",
+    "conversation_id": "2036548095711011028",
+    "created_at": "2026-03-24T20:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T21:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036548095711011028"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1767691817456476160",
+          "start": 3,
+          "username": "whereisyourc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036548095711011028",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 256
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036078331544662070",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whereisyourc: 对一部分人来说 听音乐是生理需求"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1941411522691072006",
+        "conversation_id": "2036548095711011028",
+        "created_at": "2026-03-24T20:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T21:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036548095711011028"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1767691817456476160",
+              "start": 3,
+              "username": "whereisyourc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036548095711011028",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 256
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036078331544662070",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whereisyourc: 对一部分人来说 听音乐是生理需求"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1767691817456476160",
+        "conversation_id": "2036078331544662070",
+        "created_at": "2026-03-23T13:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T14:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036078331544662070"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036078331544662070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 62400,
+          "like_count": 1979,
+          "quote_count": 51,
+          "reply_count": 58,
+          "retweet_count": 256
+        },
+        "reply_settings": "everyone",
+        "text": "对一部分人来说 听音乐是生理需求"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-07-05T08:19:20.000Z",
+        "description": "愚蠢至極｜ftx｜我非「我」\n\n♦️@w0sh1Asak1｜🍐 @Eternal1uv9｜🙇🏻‍♀️ @Akinoyo_desu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "w0sh1Asak1"
+              },
+              {
+                "end": 44,
+                "start": 32,
+                "username": "Eternal1uv9"
+              },
+              {
+                "end": 64,
+                "start": 51,
+                "username": "Akinoyo_desu"
+              }
+            ]
+          }
+        },
+        "id": "1941411522691072006",
+        "name": "否決^",
+        "pinned_tweet_id": "2024968340415123695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024968101696339969/NVHIIoFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 157,
+          "like_count": 2195,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 969
+        },
+        "username": "noth1nghere14",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-12T23:19:18.000Z",
+        "description": "很难介绍",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/where98094",
+                "end": 23,
+                "expanded_url": "https://ngl.link/where98094",
+                "start": 0,
+                "url": "https://t.co/cogZdpPI9s"
+              }
+            ]
+          }
+        },
+        "id": "1767691817456476160",
+        "location": "匿名箱➡️",
+        "name": "星期七",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008533709834661889/CJy3RQCb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1603,
+          "following_count": 527,
+          "like_count": 727,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 328
+        },
+        "url": "https://t.co/cogZdpPI9s",
+        "username": "whereisyourc",
+        "verified": true
+      }
+    ]
+  }
+}
